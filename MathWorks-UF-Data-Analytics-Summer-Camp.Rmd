@@ -20,22 +20,76 @@ editor_options:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## R Markdown
+# Program Introduction
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+## Overview
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+## Goals
 
-```{r cars}
-summary(cars)
-```
+# Program Curriculum
 
-## Including Plots
+-   Curriculum layout
+-   Order of operations, sequentially
 
-You can also embed plots, for example:
+## Required Websites
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
+-   White list documents
+-   Teacher List
+-   Student List
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+## AI Lessons
+
+-   summary of main skills learned in the AI section
+
+-   Learning Goals/Objectives
+
+-   Curriculum Overview (Visual)
+
+-   Links to lesson folders
+
+-   Lesson Summaries
+
+## Programming Lessons
+
+-   summary of main skills learned in the programming section
+
+-   Learning Goals/Objectives
+
+-   Curriculum Overview (Visual)
+
+-   Links to lesson folders
+
+-   Lesson Summaries
+
+# Using MATLAB Online
+
+<https://matlab.mathworks.com/>
+
+## Creating an Account
+
+-   Link Youtube videos
+
+## Using MATLAB Drive
+
+-   Link Youtube videos
+
+### Accessing Lesson Folders
+
+-   Contact the school district STEM or science department to offer an
+    opportunity to host a summer program.
+    -   If you know a teacher that would like to host the summer program
+        and has permission from their school principal to host the
+        summer program, work with them and the school team.
+-   They should work with you to identify a target school to host the
+    summer program if a school is not already in mind.
+
+# Facilitator Training Resources
+
+-   Time
+-   Tutorials
+-   Resources
+-   Expectations [Youth Compliance]
+
+![](\Users\dhruv\Documents\GitHub\MathWorks-UF-Data-Analytics-Summer-Camp\Website%20Images\Test123.png){width="50%"}
+
+# Youth Compliance
