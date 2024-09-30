@@ -36,6 +36,45 @@ knitr::opts_chunk$set(echo = TRUE)
 -   White list documents
 -   Teacher List
 -   Student List
+    -   Links to Websites/Online Tools Students will need access to: 
+        -   Spotify/Spotify API: <https://developer.spotify.com/documentation/web-api>
+        -   MATLAB: <https://matlab.mathworks.com/>
+    -   Lesson 2 links:
+        -   Marchine Learning Fundamentals: <https://www.mathworks.com/videos/introduction-to-machine-learning-part-1-machine-learning-fundamentals-1542879625034.html>
+    -   Lesson 3 links:
+        -   How do I find my Spotify ID: <https://support.dittomusic.com/en/articles/6701098-how-do-i-find-my-spotify-id>
+        -   Top Spotify songs: <>
+        -   Sportrader API activity: <https://developer.sportradar.com/>
+        -   Webscraping activity: <https://sports.yahoo.com/nba/stats/individual/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAACcxyP0zC_9xC_p4e21LXs0wPttsnh6LxuXVlCf1z8wm6XQpZteIS2bcNpDoLUonhbzw2m0f3n84C3CE3gjICj-10Dk4VjkE4yr9QO7PvfdK_GXYMeh0-ltK9H1O4bpHkJyO1uwGKfWNYY4pe_sM4C9718DyR4q8wKLl9SWtyMpN>
+    -   Lesson 7 links:
+        -   Classification Models:
+            -   Classification/Decision trees: <https://www.mathworks.com/help/stats/classification-trees.html>
+            -   Discriminant analysis: <https://www.mathworks.com/help/stats/classification-discriminant-analysis.html>
+            -   Naive Bayes model with Gaussian, multinomial, or kernel predictors: <https://www.mathworks.com/help/stats/classification-naive-bayes.html>
+            -   k-nearest neighbor classification: <https://www.mathworks.com/help/stats/classification-nearest-neighbors.html> 
+            -   Support vector machines for binary or multiclass classification: <https://www.mathworks.com/help/stats/support-vector-machine-classification.html>
+            -   Additional classification models: <https://www.mathworks.com/help/stats/classification.html>
+        -   Regression Models:
+            -   Multiple, stepwise, multivariate regression models, and more: <https://www.mathworks.com/help/stats/linear-regression.html> 
+            -   Logistic regression, multinomial regression, Poisson regression, and more: <https://www.mathworks.com/help/stats/generalized-linear-models.html>
+            -   Nonlinear fixed- and mixed-effects regression models: <https://www.mathworks.com/help/stats/nonlinear-regression.html>
+            -   Support vector machines for regression models: <https://www.mathworks.com/help/stats/support-vector-machine-regression.html>
+            -   Additional regression models: <https://www.mathworks.com/help/stats/regression-and-anova.html>
+        -   AI Class Websites:
+            -   <https://open.spotify.com/> 
+            -   <https://help.instagram.com/181231772500920>
+            -   <https://support.tiktok.com/en/account-and-privacy/personalized-ads-and-data/requesting-your-data>
+            -   <https://sportsandsociety.osu.edu/sports-data-sets>
+            -   <https://www.madronavl.com/launchable/public-data-sources-sports>
+            -   <https://developer.apple.com/documentation/applemusicapi/>
+            -   <https://www.theaudiodb.com/>
+            -   <https://github.com/public-apis/public-apis?tab=readme-ov-file#music>
+            -   <https://www.on3.com/nil/rankings/player/nil-100/>
+            -   <https://www.on3.com/nil/news/about-on3-nil-valuation-per-post-value/>
+            -   <https://musicbrainz.org/>
+
+        
+    
 
 ## AI Lessons
 
@@ -52,14 +91,85 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Programming Lessons
 
 -   summary of main skills learned in the programming section
+    -   Proficient in MATLAB programming, including scripting, data manipulation, and visualization.
+    -   Ability to work with APIs to retrieve and store data for analysis.
+    -   Understanding of machine learning concepts and techniques, including model building and evaluation.
+    -   Skills in image processing using MATLAB for practical applications.
+    -   Experience in collaborative peer review and presenting technical projects.
 
 -   Learning Goals/Objectives
+    -   To develop foundational skills in MATLAB programming for data analysis and visualization.
+    -   To learn how to access and utilize external data sources through APIs.
+    -   To gain hands-on experience in building and refining machine learning models applicable to real-world scenarios in sports or music.
+    -   To enhance collaboration and critical thinking through peer review and feedback.
+    -   To effectively communicate technical concepts and project outcomes in presentations.
 
 -   Curriculum Overview (Visual)
 
 -   Links to lesson folders
+-   Section 01
+    -   Student Files: <https://drive.mathworks.com/sharing/69b123f0-5eb1-4d9e-9a64-f14498986d9f>
+    -   Teacher Files: <https://drive.mathworks.com/sharing/a0490fcd-6b6b-43f5-8843-0bde8995830a>
+
+-   Section 02
+    -   Student Files: <https://drive.mathworks.com/sharing/53347f3d-9000-40d2-bed4-17be2902e89e>
+    -   Teacher Files: <https://drive.mathworks.com/sharing/d31d0b53-ada7-4c15-9599-9d114b9f1c6f>
+
+-   Section 03
+    -   Student Files: <https://drive.mathworks.com/sharing/51c15c50-0736-4675-9560-f342a5d04b6a>
+    -   Teacher Files: <https://drive.mathworks.com/sharing/8821b137-8122-4183-b329-12e0ce3d678c>
+    -   Creating a Spotify Developer Account to use the API Video: <https://youtu.be/ute70c0Rvng>
+
+-   Section 04
+    -   Student Files: <https://drive.mathworks.com/sharing/fdc134e4-641e-4bce-8ee7-02e6822a6c58>
+    -   Teacher Files: <https://drive.mathworks.com/sharing/009c28d2-81b9-4952-b151-e0016d5d8273>
+
+-   Section 05
+    -   Student Files: <https://drive.mathworks.com/sharing/8cd58cfd-6a7e-40bf-8619-358f4712139f>
+    -   Teacher Files: <https://drive.mathworks.com/sharing/95c563b4-645c-4564-ba37-a4e7491c4d23>
+
+-   Section 06
+    -   Student Files: <https://drive.mathworks.com/sharing/9f4543d9-7323-41c8-beb5-dfd27182090d>
+    -   Teacher Files: <https://drive.mathworks.com/sharing/2d194058-ee0c-4594-9cbd-c3326e596dfa>
+    -   Analyzing the RGB values Video: <https://youtu.be/WGZAuN-QzhA>
+
+-   Section 07
+    -   Files (for both): <https://drive.mathworks.com/sharing/32c68682-25be-48d5-bfdc-0a9f04f18b8b>
+    -   Rap Music Final Project Example Video: <https://youtu.be/QX4A3q-kENY>
+    -   Pop Music Final Project Example Video: <https://youtu.be/pCxjdfwdQ4Q>
+
+-   Section 08
+    -   Files (for both): <https://drive.mathworks.com/sharing/0d706dc1-163b-4c1f-8e52-d28ca259b132>
+
 
 -   Lesson Summaries
+    -   Lesson 1: Getting Started with MATLAB 
+        -   Summary: This lesson introduces the MATLAB environment, focusing on basic navigation, scripting, and computations. Students learn about variables, arrays, and writing scripts/functions to perform arithmetic and logical operations.
+    -   Lesson 2: Data in MATLAB
+        -   Summary: Students learn to import, manipulate, and store data in MATLAB. The lesson covers importing/exporting data, data types and structures, and performing basic statistics to summarize data.
+    -   Lesson 3: APIs & Data Storage
+        -   Summary: This lesson explores the use of APIs to retrieve external data and save it for analysis. Students learn about HTTP requests, parsing JSON data, and storing retrieved data in various formats.
+    -   Lesson 4: Plotting Data in MATLAB
+        -   Summary: Students are taught how to visualize data using MATLAB’s plotting functions. The lesson covers creating and customizing various plot types, including 2D and 3D plots.
+    -   Lesson 5: AI Toolkits
+        -   Summary: This lesson provides an overview of MATLAB’s machine learning capabilities. Students learn to use built-in toolkits for model creation, including regression and classification techniques, and practice training and evaluating simple models.
+    -   Lesson 6: Image Processing
+        -   Summary Students gain hands-on experience with MATLAB's image processing tools. The lesson covers image import and manipulation, filtering, and basic object detection techniques, applying these concepts to practical scenarios.
+    -   Lesson 7: Building Your Own Machine Learning Model (Music or Sports)
+        -   Summary: In this lesson, students design and develop their own machine learning models aimed at predicting the next best musician or soccer player. The focus is on selecting appropriate features, building models using KNN or similar classifiers, and utilizing real-world data from APIs.
+    -   Lesson 8: Refining and Testing Machine Learning Models 
+        -   Summary: This lesson focuses on refining machine learning models. Students learn model evaluation techniques, parameter tuning, and addressing biases. The objective is to finalize their models for presentation based on performance metrics.
+    -   Lesson 9: Peer Review of Machine Learning Projects 
+        -   Summary: Students engage in a structured peer review process, providing feedback on each other’s models. The goal is to identify strengths and areas for improvement while fostering collaborative discussion.
+    -   Lesson 10: Final Machine Learning Model Presentation and Grading 
+        -   Summary: In the final lesson, students present their completed machine learning models. They explain their design choices, present model performance, and answer questions. Grading is based on creativity, accuracy, and project execution.
+
+
+
+
+
+
+
 
 # Using MATLAB Online
 
@@ -67,11 +177,13 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Creating an Account
 
--   Link Youtube videos
+-   Link Youtube ideos
+-   <https://youtu.be/kwNFpoY3dKk>
 
 ## Using MATLAB Drive
 
 -   Link Youtube videos
+-   <https://youtu.be/Ap9fqfN1ioA>
 
 ### Accessing Lesson Folders
 
