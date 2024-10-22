@@ -21,34 +21,15 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 # Program Introduction
-Welcome to our ultimate resource hub for teaching MATLAB and AI! Dive into our treasure trove of lesson plans, interactive presentations, ready-to-use MATLAB files, step-by-step tutorial videos, and so much more. Whether you're a seasoned programming pro or just getting started, we’ve got you covered with tools that will make your life easier and your students excited to learn. From mastering basic programming syntax to exploring advanced machine learning and regression models, there’s something here for everyone!
 
 ## Overview
-AI tools, machine learning, and programming are transforming the world around us—from the convenience of ChatGPT to image recognition on your Ring camera, and even predicting the outcome of your favorite soccer team’s season. These cutting-edge technologies have a wide range of applications, and this educational repository is designed to help teachers equip students with the skills they need to explore and excel in these fields.
 
-By using the resources here, students will gain a deeper understanding of both programming and AI in the MATLAB environment. Whether you're guiding students through basic coding principles or teaching them how to build sophisticated machine learning models, the lessons offer step-by-step instruction that prepares students to take on real-world challenges. The curriculum culminates in an exciting final project where students create and present their own unique models.
-
-Even if you're new to MATLAB or AI, this repository has everything you need—lesson plans, tutorials, and ready-to-use tools—to make teaching these subjects easy and engaging. Both students and instructors will find resources here to inspire learning and innovation!
-
-## What You Need to Get Started
-We will know be going over the basic tools required by the instructor/teacher prior to start teaching the materials and lessons provided, which include the following resources:  MATLAB Online, Spotify API, White List Websites, and MATLAB Drive.
-
-### MATLAB Online
-MATLAB Online is the web-based version of matlab that lets you use matlab without installing or downloading any software, it lets you use it directly on the browswer.  We will be using this programming enviornment in conjuction with the programming lessons provided to teach stuednts tu use amtlab and its assocaited AI tools.  
-
-### Spotify API
-
-### White List Websites
-
-### MATLAB Drive
-
-
-## Lesson Resources
+## Goals
 
 # Program Curriculum
 
 -   Curriculum layout
-
+-   Order of operations, sequentially
 
 ## Required Websites
 
@@ -96,7 +77,7 @@ MATLAB Online is the web-based version of matlab that lets you use matlab withou
     
 
 ## AI Lessons
-<https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/raw/b054352d77e14ab9ebe64db1c8cb62412300c0bf/Programming%20Lesson/Programming%20Lesson%205/Student%20Pages/Lesson05_ML_Handout.docx>
+
 -   summary of main skills learned in the AI section
 
 -   Learning Goals/Objectives
@@ -217,6 +198,8 @@ MATLAB Online is the web-based version of matlab that lets you use matlab withou
 # Facilitator Training Resources
 
 -   Time
+-   Tutorials
+-   Resources
 -   Expectations [Youth Compliance]
 
 ![](\Users\dhruv\Documents\GitHub\MathWorks-UF-Data-Analytics-Summer-Camp\Website%20Images\Test123.png){width="50%"}
