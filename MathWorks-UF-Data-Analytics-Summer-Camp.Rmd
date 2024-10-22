@@ -31,194 +31,269 @@ By using the resources here, students will gain a deeper understanding of both p
 Even if you're new to MATLAB or AI, this repository has everything you need—lesson plans, tutorials, and ready-to-use tools—to make teaching these subjects easy and engaging. Both students and instructors will find resources here to inspire learning and innovation!
 
 ## What You Need to Get Started
-We will know be going over the basic tools required by the instructor/teacher prior to start teaching the materials and lessons provided, which include the following resources:  MATLAB Online, Spotify API, White List Websites, and MATLAB Drive.
+In this section, we will walk you through the essential tools and resources required for instructors and teachers before diving into the lessons provided. These include MATLAB Online, the Spotify API, a list of whitelisted websites, and MATLAB Drive.
 
 ### MATLAB Online
-MATLAB Online is the web-based version of matlab that lets you use matlab without installing or downloading any software, it lets you use it directly on the browswer.  We will be using this programming enviornment in conjuction with the programming lessons provided to teach stuednts tu use amtlab and its assocaited AI tools.  
+MATLAB Online is the cloud-based version of MATLAB, allowing you to use MATLAB directly through your web browser without needing to install or download any software. This environment provides full access to the programming features and tools available in the desktop version. Throughout this course, MATLAB Online will be the primary platform for teaching students programming concepts, machine learning, and AI tools in a seamless, accessible way. With MATLAB Online, students can easily access lessons from any device with an internet connection, making it ideal for both in-class and remote learning. The following link provides instructions on creating a MathWorks Account and access MATLAB Online: <https://www.youtube.com/watch?v=kwNFpoY3dKk>.
 
 ### Spotify API
+The Spotify API will play a significant role in many lessons, particularly those involving data retrieval and manipulation. The Spotify API is a RESTful web service that allows users to access Spotify’s vast music database without needing to install software locally. Students will use it to gather real-world music data for various exercises and projects, such as creating prediction models or analyzing song attributes like danceability or duration. Teachers will need to guide students in setting up API access and using it to fetch and process music-related data, which can be integrated into their MATLAB projects. The following link provides the developer page for the Spotify API: <https://developer.spotify.com/documentation/web-api>.
 
 ### White List Websites
+Some websites and services used throughout this course may be blocked by school networks or firewalls. To avoid any disruptions, a PDF document is provided with a list of essential websites that need to be whitelisted or unblocked before teaching can begin. This ensures smooth access to necessary online resources, such as APIs and MATLAB Online. The list includes links to key websites that students and instructors will need throughout the course, so be sure to review and address any restrictions with your IT department ahead of time. Link to PDF: <https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/blob/c770bdf30c62b9d31261fe66f2b61ae98d48cf95/Additional%20Resources/MATLAB%20Camp%20-%20Website%20Whitelist%20(2).pdf>.
 
 ### MATLAB Drive
-
+MATLAB Drive is a cloud-based storage solution integrated with MATLAB, allowing teachers and students to store, manage, and access MATLAB files from anywhere. This tool is especially useful for distributing lesson files, projects, and additional resources to students throughout the course. With MATLAB Drive, instructors can easily share assignments, code, and data files, while students can store their work and access it from any device. It streamlines collaboration and ensures that everyone has access to the materials they need for the course. Additionally, it simplifies file management, making it easier for both teachers and students to stay organized. The following link provides instructions on accessing the MATLAB drive: <https://www.youtube.com/watch?v=Ap9fqfN1ioA>.
 
 ## Lesson Resources
+This section outlines the course structure you'll follow when teaching your students. Each lesson is divided into two main components: a Programming section and an AI section. Together, these sections build the foundational skills and knowledge necessary for students to complete a final project that combines programming and AI concepts in MATLAB.
 
-# Program Curriculum
+The programming portion of each lesson focuses on core MATLAB syntax and basic programming concepts. These lessons equip students with essential skills to navigate MATLAB and use it as a problem-solving tool. Topics covered include printing outputs, modifying images, accessing and working with files, and creating plots. The aim is to provide students with a strong foundation in MATLAB, ensuring they have the confidence and ability to apply these skills in their final project.
 
--   Curriculum layout
+In the AI section, students will explore the real-world applications and ethical considerations of AI. Lessons cover a wide range of topics, including image recognition, autonomous vehicles, and more. These lessons will not only introduce students to the technical aspects of AI but also foster discussions about its implications in society. By the end of this section, students will have a solid understanding of AI’s potential and limitations, preparing them to integrate AI into their own projects.
 
+The two sections of the course culminate in an exciting final project where students will use their programming and AI knowledge to create a predictive AI tool in MATLAB. Whether they choose to predict the next big pop artist, identify the next star soccer player, or focus on another field of their choice, this project allows students to combine creativity with technical skills.
 
-## Required Websites
+Based on prior experience from a summer camp, each programming and AI lesson takes approximately 85 minutes to complete, but this may vary depending on the pace of your class. The course is designed to be flexible and adaptable, allowing you to tailor the lessons to your students' needs while maintaining structure and clear learning outcomes.
 
--   White list documents
--   Teacher List
--   Student List
-    -   Links to Websites/Online Tools Students will need access to: 
-        -   Spotify/Spotify API: <https://developer.spotify.com/documentation/web-api>
-        -   MATLAB: <https://matlab.mathworks.com/>
-    -   Lesson 2 links:
-        -   Marchine Learning Fundamentals: <https://www.mathworks.com/videos/introduction-to-machine-learning-part-1-machine-learning-fundamentals-1542879625034.html>
-    -   Lesson 3 links:
-        -   How do I find my Spotify ID: <https://support.dittomusic.com/en/articles/6701098-how-do-i-find-my-spotify-id>
-        -   Top Spotify songs: <>
-        -   Sportrader API activity: <https://developer.sportradar.com/>
-        -   Webscraping activity: <https://sports.yahoo.com/nba/stats/individual/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAACcxyP0zC_9xC_p4e21LXs0wPttsnh6LxuXVlCf1z8wm6XQpZteIS2bcNpDoLUonhbzw2m0f3n84C3CE3gjICj-10Dk4VjkE4yr9QO7PvfdK_GXYMeh0-ltK9H1O4bpHkJyO1uwGKfWNYY4pe_sM4C9718DyR4q8wKLl9SWtyMpN>
-    -   Lesson 7 links:
-        -   Classification Models:
-            -   Classification/Decision trees: <https://www.mathworks.com/help/stats/classification-trees.html>
-            -   Discriminant analysis: <https://www.mathworks.com/help/stats/classification-discriminant-analysis.html>
-            -   Naive Bayes model with Gaussian, multinomial, or kernel predictors: <https://www.mathworks.com/help/stats/classification-naive-bayes.html>
-            -   k-nearest neighbor classification: <https://www.mathworks.com/help/stats/classification-nearest-neighbors.html> 
-            -   Support vector machines for binary or multiclass classification: <https://www.mathworks.com/help/stats/support-vector-machine-classification.html>
-            -   Additional classification models: <https://www.mathworks.com/help/stats/classification.html>
-        -   Regression Models:
-            -   Multiple, stepwise, multivariate regression models, and more: <https://www.mathworks.com/help/stats/linear-regression.html> 
-            -   Logistic regression, multinomial regression, Poisson regression, and more: <https://www.mathworks.com/help/stats/generalized-linear-models.html>
-            -   Nonlinear fixed- and mixed-effects regression models: <https://www.mathworks.com/help/stats/nonlinear-regression.html>
-            -   Support vector machines for regression models: <https://www.mathworks.com/help/stats/support-vector-machine-regression.html>
-            -   Additional regression models: <https://www.mathworks.com/help/stats/regression-and-anova.html>
-        -   AI Class Websites:
-            -   <https://open.spotify.com/> 
-            -   <https://help.instagram.com/181231772500920>
-            -   <https://support.tiktok.com/en/account-and-privacy/personalized-ads-and-data/requesting-your-data>
-            -   <https://sportsandsociety.osu.edu/sports-data-sets>
-            -   <https://www.madronavl.com/launchable/public-data-sources-sports>
-            -   <https://developer.apple.com/documentation/applemusicapi/>
-            -   <https://www.theaudiodb.com/>
-            -   <https://github.com/public-apis/public-apis?tab=readme-ov-file#music>
-            -   <https://www.on3.com/nil/rankings/player/nil-100/>
-            -   <https://www.on3.com/nil/news/about-on3-nil-valuation-per-post-value/>
-            -   <https://musicbrainz.org/>
-
-        
-    
-
-## AI Lessons
-<https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/raw/b054352d77e14ab9ebe64db1c8cb62412300c0bf/Programming%20Lesson/Programming%20Lesson%205/Student%20Pages/Lesson05_ML_Handout.docx>
--   summary of main skills learned in the AI section
-
--   Learning Goals/Objectives
-
--   Curriculum Overview (Visual)
-
--   Links to lesson folders
-
--   Lesson Summaries
-
-## Programming Lessons
-
--   summary of main skills learned in the programming section
-    -   Proficient in MATLAB programming, including scripting, data manipulation, and visualization.
-    -   Ability to work with APIs to retrieve and store data for analysis.
-    -   Understanding of machine learning concepts and techniques, including model building and evaluation.
-    -   Skills in image processing using MATLAB for practical applications.
-    -   Experience in collaborative peer review and presenting technical projects.
-
--   Learning Goals/Objectives
-    -   To develop foundational skills in MATLAB programming for data analysis and visualization.
-    -   To learn how to access and utilize external data sources through APIs.
-    -   To gain hands-on experience in building and refining machine learning models applicable to real-world scenarios in sports or music.
-    -   To enhance collaboration and critical thinking through peer review and feedback.
-    -   To effectively communicate technical concepts and project outcomes in presentations.
-
--   Curriculum Overview (Visual)
-
--   Links to lesson folders
--   Section 01
-    -   Student Files: <https://drive.mathworks.com/sharing/69b123f0-5eb1-4d9e-9a64-f14498986d9f>
-    -   Teacher Files: <https://drive.mathworks.com/sharing/a0490fcd-6b6b-43f5-8843-0bde8995830a>
-
--   Section 02
-    -   Student Files: <https://drive.mathworks.com/sharing/53347f3d-9000-40d2-bed4-17be2902e89e>
-    -   Teacher Files: <https://drive.mathworks.com/sharing/d31d0b53-ada7-4c15-9599-9d114b9f1c6f>
-
--   Section 03
-    -   Student Files: <https://drive.mathworks.com/sharing/51c15c50-0736-4675-9560-f342a5d04b6a>
-    -   Teacher Files: <https://drive.mathworks.com/sharing/8821b137-8122-4183-b329-12e0ce3d678c>
-    -   Creating a Spotify Developer Account to use the API Video: <https://youtu.be/ute70c0Rvng>
-
--   Section 04
-    -   Student Files: <https://drive.mathworks.com/sharing/fdc134e4-641e-4bce-8ee7-02e6822a6c58>
-    -   Teacher Files: <https://drive.mathworks.com/sharing/009c28d2-81b9-4952-b151-e0016d5d8273>
-
--   Section 05
-    -   Student Files: <https://drive.mathworks.com/sharing/8cd58cfd-6a7e-40bf-8619-358f4712139f>
-    -   Teacher Files: <https://drive.mathworks.com/sharing/95c563b4-645c-4564-ba37-a4e7491c4d23>
-
--   Section 06
-    -   Student Files: <https://drive.mathworks.com/sharing/9f4543d9-7323-41c8-beb5-dfd27182090d>
-    -   Teacher Files: <https://drive.mathworks.com/sharing/2d194058-ee0c-4594-9cbd-c3326e596dfa>
-    -   Analyzing the RGB values Video: <https://youtu.be/WGZAuN-QzhA>
-
--   Section 07
-    -   Files (for both): <https://drive.mathworks.com/sharing/32c68682-25be-48d5-bfdc-0a9f04f18b8b>
-    -   Rap Music Final Project Example Video: <https://youtu.be/QX4A3q-kENY>
-    -   Pop Music Final Project Example Video: <https://youtu.be/pCxjdfwdQ4Q>
-
--   Section 08
-    -   Files (for both): <https://drive.mathworks.com/sharing/0d706dc1-163b-4c1f-8e52-d28ca259b132>
+### Lesson 1
 
 
--   Lesson Summaries
-    -   Lesson 1: Getting Started with MATLAB 
-        -   Summary: This lesson introduces the MATLAB environment, focusing on basic navigation, scripting, and computations. Students learn about variables, arrays, and writing scripts/functions to perform arithmetic and logical operations.
-    -   Lesson 2: Data in MATLAB
-        -   Summary: Students learn to import, manipulate, and store data in MATLAB. The lesson covers importing/exporting data, data types and structures, and performing basic statistics to summarize data.
-    -   Lesson 3: APIs & Data Storage
-        -   Summary: This lesson explores the use of APIs to retrieve external data and save it for analysis. Students learn about HTTP requests, parsing JSON data, and storing retrieved data in various formats.
-    -   Lesson 4: Plotting Data in MATLAB
-        -   Summary: Students are taught how to visualize data using MATLAB’s plotting functions. The lesson covers creating and customizing various plot types, including 2D and 3D plots.
-    -   Lesson 5: AI Toolkits
-        -   Summary: This lesson provides an overview of MATLAB’s machine learning capabilities. Students learn to use built-in toolkits for model creation, including regression and classification techniques, and practice training and evaluating simple models.
-    -   Lesson 6: Image Processing
-        -   Summary Students gain hands-on experience with MATLAB's image processing tools. The lesson covers image import and manipulation, filtering, and basic object detection techniques, applying these concepts to practical scenarios.
-    -   Lesson 7: Building Your Own Machine Learning Model (Music or Sports)
-        -   Summary: In this lesson, students design and develop their own machine learning models aimed at predicting the next best musician or soccer player. The focus is on selecting appropriate features, building models using KNN or similar classifiers, and utilizing real-world data from APIs.
-    -   Lesson 8: Refining and Testing Machine Learning Models 
-        -   Summary: This lesson focuses on refining machine learning models. Students learn model evaluation techniques, parameter tuning, and addressing biases. The objective is to finalize their models for presentation based on performance metrics.
-    -   Lesson 9: Peer Review of Machine Learning Projects 
-        -   Summary: Students engage in a structured peer review process, providing feedback on each other’s models. The goal is to identify strengths and areas for improvement while fostering collaborative discussion.
-    -   Lesson 10: Final Machine Learning Model Presentation and Grading 
-        -   Summary: In the final lesson, students present their completed machine learning models. They explain their design choices, present model performance, and answer questions. Grading is based on creativity, accuracy, and project execution.
+#### Programming Lesson 1
+Summary: This lesson introduces students to the MATLAB environment. They will explore basic navigation, scripting, and computations. Students will learn about variables, arrays, and writing scripts/functions to perform arithmetic and logical operations.
+
+Estimated Time: 85 minutes
+
+Objectives:
+
+-   Learn how to navigate MATLAB’s interface.
+-   Understand basic variable assignment and array manipulation.
+-   Write simple scripts to perform mathematical and logical operations.
+
+Key Terms: Variables, Arrays, Functions, Scripts, Arithmetic Operations
+
+Resources: 
+Links to all the individual resources from GIThub:  
+
+-   Word Document Lesson Outline: <https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/blob/c770bdf30c62b9d31261fe66f2b61ae98d48cf95/Programming%20Lesson/Programming%20Lesson%201/Teacher%20Pages/ML_Sec01_TeacherGuide.docx>
+-   PDF Document Lesson Outline: <https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/blob/c770bdf30c62b9d31261fe66f2b61ae98d48cf95/Programming%20Lesson/Programming%20Lesson%201/Teacher%20Pages/ML_Sec01_TeacherGuide.pdf> 
+-   Presentation: <https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/blob/c770bdf30c62b9d31261fe66f2b61ae98d48cf95/Programming%20Lesson/Programming%20Lesson%201/ML_Sec01_PPT.pptx>
+-   MATLAB Student Files (Raw Files): <>
+-   MATLAB Student Files (MATLAB Drive): <https://drive.mathworks.com/sharing/69b123f0-5eb1-4d9e-9a64-f14498986d9f/> 
+-   MATLAB Teacher Files (Raw Files): <>
+-   MATLAB Teacher Files (MATLAB Drive): <https://drive.mathworks.com/sharing/a0490fcd-6b6b-43f5-8843-0bde8995830a/>
+-   Additional Resources: <>
+
+#### AI Lesson 1
+
+### Lesson 2
+
+
+#### Programming Lesson 2
+Summary: Students will learn how to import, manipulate, and store data in MATLAB. This lesson focuses on data types, structures, importing/exporting data, and performing basic statistical analysis.
+
+Estimated Time: 85 minutes
+
+Objectives:
+
+-   Import and export data from various file types (CSV, Excel).
+-   Understand and manipulate different data structures like tables, arrays, and cell arrays.
+-   Perform basic statistical operations like mean, median, and standard deviation.
+-   Key Terms: Data Structures, Tables, Arrays, Import/Export, Basic Statistics
+
+Resources:
+Links to all the individual resources from GIThub:
+
+-   Word Document Lesson Outline: <https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/blob/c770bdf30c62b9d31261fe66f2b61ae98d48cf95/Programming%20Lesson/Programming%20Lesson%202/Teacher%20Pages/MATLAB_Section02_TeacherPage.docx>
+-   PDF Document Lesson Outline: <https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/blob/c770bdf30c62b9d31261fe66f2b61ae98d48cf95/Programming%20Lesson/Programming%20Lesson%202/Teacher%20Pages/MATLAB_Section02_TeacherPage.pdf> 
+-   Presentation: <https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/blob/c770bdf30c62b9d31261fe66f2b61ae98d48cf95/Programming%20Lesson/Programming%20Lesson%202/ML_Sec02_PPT.pptx>
+-   MATLAB Student Files (Raw Files): <>
+-   MATLAB Student Files (MATLAB Drive): <https://drive.mathworks.com/sharing/53347f3d-9000-40d2-bed4-17be2902e89e/> 
+-   MATLAB Teacher Files (Raw Files): <>
+-   MATLAB Teacher Files (MATLAB Drive): <https://drive.mathworks.com/sharing/d31d0b53-ada7-4c15-9599-9d114b9f1c6f/>
+-   Additional Resources: <>
+
+#### AI Lesson 2
+
+### Lesson 3
+
+
+#### Programming Lesson 3
+Summary: This lesson introduces students to using APIs for retrieving external data. Students will work with HTTP requests, JSON parsing, and storing retrieved data for analysis.
+
+Estimated Time: 85 minutes
+
+Objectives:
+
+-   Understand the basics of APIs and how they interact with external data sources.
+-   Learn to make HTTP requests and parse JSON data.
+-   Store and manage retrieved data in MATLAB.
+
+Key Terms: APIs, HTTP Requests, JSON, Data Storage
+
+Resources:
+Links to all the individual resources from GIThub:
+
+-   Word Document Lesson Outline: <https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/blob/c770bdf30c62b9d31261fe66f2b61ae98d48cf95/Programming%20Lesson/Programming%20Lesson%203/Teacher%20Pages/ML_Sec03_TeacherGuide.docx>
+-   PDF Document Lesson Outline: <https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/blob/c770bdf30c62b9d31261fe66f2b61ae98d48cf95/Programming%20Lesson/Programming%20Lesson%203/Teacher%20Pages/ML_Sec03_TeacherGuide.pdf> 
+-   Presentation: <https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/blob/c770bdf30c62b9d31261fe66f2b61ae98d48cf95/Programming%20Lesson/Programming%20Lesson%203/ML_Lesson03_PPT.pptx>
+-   MATLAB Student Files (Raw Files): <>
+-   MATLAB Student Files (MATLAB Drive): <https://drive.mathworks.com/sharing/51c15c50-0736-4675-9560-f342a5d04b6a/> 
+-   MATLAB Teacher Files (Raw Files): <>
+-   MATLAB Teacher Files (MATLAB Drive): <https://drive.mathworks.com/sharing/8821b137-8122-4183-b329-12e0ce3d678c/>
+-   Additional Resources: <>
+
+#### AI Lesson 3
+
+### Lesson 4
+
+#### Programming Lesson 4
+Summary: Students will learn how to visualize data by creating and customizing various types of plots in MATLAB. This lesson covers both 2D and 3D plots.
+
+Estimated Time: 85 minutes
+
+Objectives:
+
+-   Create and customize 2D and 3D plots in MATLAB.
+-   Add labels, legends, and titles to plots.
+-   Interpret and present data visually.
+
+Key Terms: 2D Plot, 3D Plot, Data Visualization, Customization
+
+Resources:
+Links to all the individual resources from GIThub:
+
+-   Word Document Lesson Outline: <https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/blob/c770bdf30c62b9d31261fe66f2b61ae98d48cf95/Programming%20Lesson/Programming%20Lesson%204/Teacher%20Pages/ML_Sec04_TeacherGuide.docx>
+-   PDF Document Lesson Outline: <https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/blob/c770bdf30c62b9d31261fe66f2b61ae98d48cf95/Programming%20Lesson/Programming%20Lesson%204/Teacher%20Pages/ML_Sec04_TeacherGuide.pdf> 
+-   Presentation: <https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/blob/c770bdf30c62b9d31261fe66f2b61ae98d48cf95/Programming%20Lesson/Programming%20Lesson%204/ML_Lesson04_PPT_v2.pptx>
+-   MATLAB Student Files (Raw Files): <>
+-   MATLAB Student Files (MATLAB Drive): <https://drive.mathworks.com/sharing/fdc134e4-641e-4bce-8ee7-02e6822a6c58/> 
+-   MATLAB Teacher Files (Raw Files): <>
+-   MATLAB Teacher Files (MATLAB Drive): <https://drive.mathworks.com/sharing/009c28d2-81b9-4952-b151-e0016d5d8273/>
+-   Additional Resources: <>
+
+#### AI Lesson 4
+
+### Lesson 5
+
+#### Programming Lesson 5
+Summary: This lesson introduces MATLAB's built-in AI and machine learning toolkits. Students will create basic models using techniques such as regression and classification, focusing on the training and evaluation of models.
+
+Estimated Time: 85 minutes
+
+Objectives:
+
+-   Explore MATLAB’s AI toolkits and understand basic machine learning techniques.
+-   Train and evaluate regression and classification models.
+-   Work with datasets to make predictions.
+
+Key Terms: Regression, Classification, Model Training, AI Toolkit
+
+Resources:
+Links to all the individual resources from GIThub:
+
+-   Word Document Lesson Outline: <https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/blob/c770bdf30c62b9d31261fe66f2b61ae98d48cf95/Programming%20Lesson/Programming%20Lesson%205/Teacher%20Pages/ML_Sec05_TeacherGuide.docx>
+-   PDF Document Lesson Outline: <https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/blob/c770bdf30c62b9d31261fe66f2b61ae98d48cf95/Programming%20Lesson/Programming%20Lesson%205/Teacher%20Pages/ML_Sec05_TeacherGuide.pdf> 
+-   Presentation: <https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/blob/c770bdf30c62b9d31261fe66f2b61ae98d48cf95/Programming%20Lesson/Programming%20Lesson%205/ML_Sec05_PPT1_v2.pptx>
+-   MATLAB Student Files (Raw Files): <>
+-   MATLAB Student Files (MATLAB Drive): <https://drive.mathworks.com/sharing/8cd58cfd-6a7e-40bf-8619-358f4712139f/> 
+-   MATLAB Teacher Files (Raw Files): <>
+-   MATLAB Teacher Files (MATLAB Drive): <https://drive.mathworks.com/sharing/95c563b4-645c-4564-ba37-a4e7491c4d23/>
+-   Additional Resources: <>
+
+#### AI Lesson 5
+
+### Lesson 6
+
+
+#### Programming Lesson 6
+Summary: Students will gain hands-on experience with MATLAB’s image processing tools, learning how to import, manipulate, and apply filters to images, as well as detecting objects in images.
+
+Estimated Time: 85 minutes
+
+Objectives:
+
+-   Import and manipulate images in MATLAB.
+-   Apply filters to enhance or modify images.
+-   Perform basic object detection tasks.
+
+Key Terms: Image Processing, Object Detection, Filters, Image Manipulation
+
+Resources:
+Links to all the individual resources from GIThub:
+
+-   Word Document Lesson Outline: <https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/blob/c770bdf30c62b9d31261fe66f2b61ae98d48cf95/Programming%20Lesson/Programming%20Lesson%206/Teacher%20Pages/ML_Sec06_TeacherGuide.docx>
+-   PDF Document Lesson Outline: <https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/blob/c770bdf30c62b9d31261fe66f2b61ae98d48cf95/Programming%20Lesson/Programming%20Lesson%206/Teacher%20Pages/ML_Sec06_TeacherGuide.pdf> 
+-   Presentation: <https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/blob/c770bdf30c62b9d31261fe66f2b61ae98d48cf95/Programming%20Lesson/Programming%20Lesson%206/ML_Sec06_PPT.pptx>
+-   MATLAB Student Files (Raw Files): <>
+-   MATLAB Student Files (MATLAB Drive): <https://drive.mathworks.com/sharing/9f4543d9-7323-41c8-beb5-dfd27182090d/> 
+-   MATLAB Teacher Files (Raw Files): <>
+-   MATLAB Teacher Files (MATLAB Drive): <https://drive.mathworks.com/sharing/2d194058-ee0c-4594-9cbd-c3326e596dfa/>
+-   Additional Resources: <>
+
+#### AI Lesson 6
+
+### Lesson 7
+
+
+#### Programming Lesson 7
+Summary: Students design and develop their own machine learning models to predict the next popular musician or soccer player. The focus is on selecting appropriate features, building models using KNN or other classifiers, and analyzing real-world data from APIs.
+
+Estimated Time: 85 minutes
+
+Objectives:
+
+-   Build a machine learning model using real-world data.
+-   Utilize KNN or other classification techniques to make predictions.
+-   Analyze and interpret the performance of the model.
+
+Key Terms: KNN, Classification, Feature Selection, Prediction Models
+
+Resources:
+Links to all the individual resources from GIThub:
+
+-   Word Document Lesson Outline: <https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/blob/c770bdf30c62b9d31261fe66f2b61ae98d48cf95/Programming%20Lesson/Programming%20Lesson%207_8/Teacher%20Pages/Teacher%20Guides/ML_Sec07_TeacherGuide.docx>
+-   PDF Document Lesson Outline: <https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/blob/c770bdf30c62b9d31261fe66f2b61ae98d48cf95/Programming%20Lesson/Programming%20Lesson%207_8/Teacher%20Pages/Teacher%20Guides/ML_Sec07_TeacherGuide.pdf> 
+-   Presentation: <https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/blob/c770bdf30c62b9d31261fe66f2b61ae98d48cf95/Programming%20Lesson/Programming%20Lesson%207_8/ML_Sec07_PPT_v2.pptx>
+-   MATLAB Student Files (Raw Files): <>
+-   MATLAB Student Files (MATLAB Drive): <https://drive.mathworks.com/sharing/32c68682-25be-48d5-bfdc-0a9f04f18b8b/> 
+-   MATLAB Teacher Files (Raw Files): <>
+-   MATLAB Teacher Files (MATLAB Drive): <https://drive.mathworks.com/sharing/32c68682-25be-48d5-bfdc-0a9f04f18b8b/>
+-   Additional Resources: <>
+
+#### AI Lesson 7
+
+### Lesson 8
+
+#### Programming Lesson 8
+Summary: This lesson focuses on refining machine learning models, teaching students techniques such as model evaluation, parameter tuning, and addressing biases to improve model performance.
+
+Estimated Time: 85 minutes
+
+Objectives:
+
+-   Learn how to evaluate machine learning models using performance metrics.
+-   Tune parameters to improve model accuracy.
+-   Identify and mitigate potential biases in models.
+-   Key Terms: Model Evaluation, Parameter Tuning, Bias, Performance Metrics
+
+Resources:
+Links to all the individual resources from GIThub:
+
+-   Word Document Lesson Outline: <https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/blob/c770bdf30c62b9d31261fe66f2b61ae98d48cf95/Programming%20Lesson/Programming%20Lesson%207_8/Teacher%20Pages/Teacher%20Guides/ML_Sec08_TeacherGuide.docx>
+-   PDF Document Lesson Outline: <https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/blob/c770bdf30c62b9d31261fe66f2b61ae98d48cf95/Programming%20Lesson/Programming%20Lesson%207_8/Teacher%20Pages/Teacher%20Guides/ML_Sec08_TeacherGuide.pdf> 
+-   Presentation: <https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/blob/c770bdf30c62b9d31261fe66f2b61ae98d48cf95/Programming%20Lesson/Programming%20Lesson%207_8/ML_Sec08_PPT_V2.pptx>
+-   MATLAB Student Files (Raw Files): <>
+-   MATLAB Student Files (MATLAB Drive): <https://drive.mathworks.com/sharing/0d706dc1-163b-4c1f-8e52-d28ca259b132/> 
+-   MATLAB Teacher Files (Raw Files): <>
+-   MATLAB Teacher Files (MATLAB Drive): <https://drive.mathworks.com/sharing/0d706dc1-163b-4c1f-8e52-d28ca259b132/>
+-   Additional Resources: <>
+
+#### AI Lesson 8
 
 
 
+## Facilitator Training Resources
 
 
-
-
-
-# Using MATLAB Online
-
-<https://matlab.mathworks.com/>
-
-## Creating an Account
-
--   Link Youtube ideos
--   <https://youtu.be/kwNFpoY3dKk>
-
-## Using MATLAB Drive
-
--   Link Youtube videos
--   <https://youtu.be/Ap9fqfN1ioA>
-
-### Accessing Lesson Folders
-
--   Contact the school district STEM or science department to offer an
-    opportunity to host a summer program.
-    -   If you know a teacher that would like to host the summer program
-        and has permission from their school principal to host the
-        summer program, work with them and the school team.
--   They should work with you to identify a target school to host the
-    summer program if a school is not already in mind.
-
-# Facilitator Training Resources
-
--   Time
--   Expectations [Youth Compliance]
-
-![](\Users\dhruv\Documents\GitHub\MathWorks-UF-Data-Analytics-Summer-Camp\Website%20Images\Test123.png){width="50%"}
-
-# Youth Compliance
+## Youth Compliance
