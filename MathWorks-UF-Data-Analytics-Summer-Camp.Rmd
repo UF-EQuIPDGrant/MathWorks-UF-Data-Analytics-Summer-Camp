@@ -78,11 +78,11 @@ Based on prior experience from a summer camp, each programming and AI lesson tak
 
 -   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/blob/c770bdf30c62b9d31261fe66f2b61ae98d48cf95/Programming%20Lesson/Programming%20Lesson%201/Teacher%20Pages/ML_Sec01_TeacherGuide.pdf" target="_blank">PDF Document Lesson Outline</a>
 
--   <a href=https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/blob/c770bdf30c62b9d31261fe66f2b61ae98d48cf95/Programming%20Lesson/Programming%20Lesson%201/ML_Sec01_PPT.pptx" target="_blank">Presentation</a>   
+-   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/blob/c770bdf30c62b9d31261fe66f2b61ae98d48cf95/Programming%20Lesson/Programming%20Lesson%201/ML_Sec01_PPT.pptx" target="_blank">Presentation</a>   
 
--   MATLAB Student Files (Raw Files): <>
--   <a href=https://drive.mathworks.com/sharing/69b123f0-5eb1-4d9e-9a64-f14498986d9f/" target="_blank">MATLAB Student Files (MATLAB Drive)</a> 
--   MATLAB Teacher Files (Raw Files): <>
+-   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/tree/0cf6b4479fb9951a1f13877c4d411c063649f61f/Raw%20MATLAB%20Files/MATLAB%20Student%20Files/Programming%20Lesson%201" target="_blank">MATLAB Student Files (Raw Files) (MATLAB Drive)</a>
+-   <a href="https://drive.mathworks.com/sharing/69b123f0-5eb1-4d9e-9a64-f14498986d9f/" target="_blank">MATLAB Student Files (MATLAB Drive)</a> 
+-   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/tree/0cf6b4479fb9951a1f13877c4d411c063649f61f/Raw%20MATLAB%20Files/MATLAB%20Teacher%20Files/Programming%20Lesson%201" target="_blank">MATLAB Teacher Files (Raw Files)</a> 
 -   <a href=https://drive.mathworks.com/sharing/a0490fcd-6b6b-43f5-8843-0bde8995830a/" target="_blank">MMATLAB Teacher Files (MATLAB Drive)</a>
 -   Additional Resources: <>
 
@@ -294,8 +294,3 @@ Links to all the individual resources from GIThub:
 #### AI Lesson 8
 
 
-
-## Facilitator Training Resources
-
-
-## Youth Compliance
