@@ -31,7 +31,7 @@ library("vembedr")
 <!-- <span style="color: #4484b5;">Blue text</span> -->
 
 # <span style="color: #d35a10;">**Program Introduction**</span>
-Welcome to our ultimate resource hub for teaching MATLAB and AI! Dive into our treasure trove of lesson plans, interactive presentations, ready-to-use MATLAB files, step-by-step tutorial videos, and so much more. Whether you're a seasoned programming pro or just getting started, we’ve got you covered with tools that will make your life easier and your students excited to learn. From mastering basic programming syntax to exploring advanced machine learning and regression models, there’s something here for everyone!
+Welcome to our resource hub for teaching MATLAB and AI! Dive into our treasure trove of lesson plans, interactive presentations, ready-to-use MATLAB files, step-by-step tutorial videos, and so much more. Whether you're a seasoned programming pro or just getting started, we’ve got you covered with tools that will make your life easier and your students excited to learn. From mastering basic programming syntax to exploring advanced machine learning and regression models, there’s something here for everyone!
 
 # <span style="color: #d35a10;">**Overview**</span>
 AI tools, machine learning, and programming are transforming the world around us—from the convenience of ChatGPT to image recognition on your Ring camera, and even predicting the outcome of your favorite soccer team’s season. These cutting-edge technologies have a wide range of applications, and this educational repository is designed to help teachers equip students with the skills they need to explore and excel in these fields.
@@ -58,7 +58,11 @@ MATLAB Drive is a cloud-based storage solution integrated with MATLAB, allowing 
 # <span style="color: #d35a10;">**Lesson Resources**</span>
 This section outlines the course structure you'll follow when teaching your students. Each lesson is divided into two main components: a Programming section and an AI section. Together, these sections build the foundational skills and knowledge necessary for students to complete a final project that combines programming and AI concepts in MATLAB.
 
+<span style="color: #4484b5;">**Programming Section**</span>
+
 The programming portion of each lesson focuses on core MATLAB syntax and basic programming concepts. These lessons equip students with essential skills to navigate MATLAB and use it as a problem-solving tool. Topics covered include printing outputs, modifying images, accessing and working with files, and creating plots. The aim is to provide students with a strong foundation in MATLAB, ensuring they have the confidence and ability to apply these skills in their final project.
+
+<span style="color: #4484b5;">**Artificial Inteligence Section**</span>
 
 In the AI section, students will explore the real-world applications and ethical considerations of AI. Lessons cover a wide range of topics, including image recognition, autonomous vehicles, and more. These lessons will not only introduce students to the technical aspects of AI but also foster discussions about its implications in society. By the end of this section, students will have a solid understanding of AI’s potential and limitations, preparing them to integrate AI into their own projects.
 
