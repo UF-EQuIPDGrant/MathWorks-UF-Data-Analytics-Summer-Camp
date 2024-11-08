@@ -30,15 +30,19 @@ library("vembedr")
 <!-- <span style="color: #d35a10;">Orange text</span> -->
 <!-- <span style="color: #4484b5;">Blue text</span> -->
 
-# <span style="color: #d35a10;">**Program Introduction**</span>
-Welcome to our resource hub for teaching MATLAB and AI! Dive into our treasure trove of lesson plans, interactive presentations, ready-to-use MATLAB files, step-by-step tutorial videos, and so much more. Whether you're a seasoned programming pro or just getting started, we’ve got you covered with tools that will make your life easier and your students excited to learn. From mastering basic programming syntax to exploring advanced machine learning and regression models, there’s something here for everyone!
+# <span style="color: #d35a10;">**Introduction**</span>
+Welcome to the resource hub for the MathWorks UF Data Analytics Summer Camp. This summer program is designed for high school students to be introduced to data analysis and AI applications in MATLAB through sports and music themed activities.  
 
-# <span style="color: #d35a10;">**Overview**</span>
-AI tools, machine learning, and programming are transforming the world around us—from the convenience of ChatGPT to image recognition on your Ring camera, and even predicting the outcome of your favorite soccer team’s season. These cutting-edge technologies have a wide range of applications, and this educational repository is designed to help teachers equip students with the skills they need to explore and excel in these fields.
+This site is designed to help you navigate and dive into lesson plans, interactive presentations, ready-to-use MATLAB files, step-by-step tutorial videos, and so much more. Whether you're a seasoned programmer or just getting started, we’ve got you covered with tools that will make your life easier and your students excited to learn. From mastering basic programming syntax to exploring advanced machine learning and regression models, there’s something here for everyone!
 
-By using the resources here, students will gain a deeper understanding of both programming and AI in the MATLAB environment. Whether you're guiding students through basic coding principles or teaching them how to build sophisticated machine learning models, the lessons offer step-by-step instruction that prepares students to take on real-world challenges. The curriculum culminates in an exciting final project where students create and present their own unique models.
+**REVIEW AND COMBINE W PARAGRAPH ABOVE** By using the resources here, students will gain a deeper understanding of both programming and AI in the MATLAB environment. Whether you're guiding students through basic coding principles or teaching them how to build sophisticated machine learning models, the lessons offer step-by-step instruction that prepares students to take on real-world challenges. The curriculum culminates in an exciting final project where students create and present their own unique models.
 
 Even if you're new to MATLAB or AI, this repository has everything you need—lesson plans, tutorials, and ready-to-use tools—to make teaching these subjects easy and engaging. Both students and instructors will find resources here to inspire learning and innovation!
+
+# <span style="color: #d35a10;">**Program Overview**</span>
+AI tools, machine learning, and programming are transforming the world around us—from the convenience of ChatGPT to image recognition on your Ring camera, and even predicting the outcome of your favorite soccer team’s season. These cutting-edge technologies have a wide range of applications, and this educational repository is designed to help teachers equip students with the skills they need to explore and excel in these fields.
+
+**WRITE BREIF STORYLINE WALKTHROUGH OF THE SUMMER PROGRAM - think like a broadstrokes roadmap of where you begin, what you do in the middle, and where you end**
 
 # <span style="color: #d35a10;">**What You Need to Get Started**</span>
 In this section, we will walk you through the essential tools and resources required for instructors and teachers before diving into the lessons provided. These include MATLAB Online, the Spotify API, a list of whitelisted websites, and MATLAB Drive.
@@ -62,13 +66,17 @@ This section outlines the course structure you'll follow when teaching your stud
 
 The programming portion of each lesson focuses on core MATLAB syntax and basic programming concepts. These lessons equip students with essential skills to navigate MATLAB and use it as a problem-solving tool. Topics covered include printing outputs, modifying images, accessing and working with files, and creating plots. The aim is to provide students with a strong foundation in MATLAB, ensuring they have the confidence and ability to apply these skills in their final project.
 
-<span style="color: #4484b5;">**Artificial Inteligence Section**</span>
+<span style="color: #4484b5;">**Artificial Intelligence Section**</span>
 
 In the AI section, students will explore the real-world applications and ethical considerations of AI. Lessons cover a wide range of topics, including image recognition, autonomous vehicles, and more. These lessons will not only introduce students to the technical aspects of AI but also foster discussions about its implications in society. By the end of this section, students will have a solid understanding of AI’s potential and limitations, preparing them to integrate AI into their own projects.
 
+<span style="color: #4484b5;">**Final Project**</span>
+
 The two sections of the course culminate in an exciting final project where students will use their programming and AI knowledge to create a predictive AI tool in MATLAB. Whether they choose to predict the next big pop artist, identify the next star soccer player, or focus on another field of their choice, this project allows students to combine creativity with technical skills.
 
-Based on prior experience from a summer camp, each programming and AI lesson takes approximately 85 minutes to complete, but this may vary depending on the pace of your class. The course is designed to be flexible and adaptable, allowing you to tailor the lessons to your students' needs while maintaining structure and clear learning outcomes.
+<span style="color: #4484b5;">**Lesson Pacing**</span>
+
+Each programming and AI lesson was designed to take approximately 85 minutes to complete. This may vary depending on the pace of the students in your camp. The course is designed to be flexible and adaptable, allowing you to tailor the lessons to your students' needs while maintaining structure and clear learning outcomes.
 
 ## <span style="color: #4484b5;">Lesson 1</span>
 
@@ -86,7 +94,7 @@ Based on prior experience from a summer camp, each programming and AI lesson tak
 
 **Key Terms:** Variables, Arrays, Functions, Scripts, Arithmetic Operations
 
-**Resources (Links to all the individual resources from GIThub):** 
+**Resources:** 
 
 *   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/raw/c770bdf30c62b9d31261fe66f2b61ae98d48cf95/Programming%20Lesson/Programming%20Lesson%201/Teacher%20Pages/ML_Sec01_TeacherGuide.docx" target="_blank">Word Document Lesson Outline</a>
 *   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/blob/c770bdf30c62b9d31261fe66f2b61ae98d48cf95/Programming%20Lesson/Programming%20Lesson%201/Teacher%20Pages/ML_Sec01_TeacherGuide.pdf" target="_blank">PDF Document Lesson Outline</a>
@@ -101,6 +109,32 @@ Based on prior experience from a summer camp, each programming and AI lesson tak
 
 
 ### <span style="color: #d35a10;">AI Lesson 1</span>
+
+**Summary:** 
+
+**Estimated Time:** 85 minutes
+
+**Objectives:**
+
+*    
+*    
+*    
+
+**Key Terms:** 
+
+**Resources (Links to all the individual resources from GIThub):** 
+
+*   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/raw/c770bdf30c62b9d31261fe66f2b61ae98d48cf95/Programming%20Lesson/Programming%20Lesson%201/Teacher%20Pages/ML_Sec01_TeacherGuide.docx" target="_blank">Word Document Lesson Outline</a>
+*   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/blob/c770bdf30c62b9d31261fe66f2b61ae98d48cf95/Programming%20Lesson/Programming%20Lesson%201/Teacher%20Pages/ML_Sec01_TeacherGuide.pdf" target="_blank">PDF Document Lesson Outline</a>
+*   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/raw/refs/heads/main/Programming%20Lesson/Programming%20Lesson%201/ML_Sec01_PPT.pptx" target="_blank">Presentation</a>   
+*   MATLAB Drive Files 
+    +   <a href="https://drive.mathworks.com/sharing/69b123f0-5eb1-4d9e-9a64-f14498986d9f/" target="_blank">MATLAB Student Files (MATLAB Drive)</a> 
+    +   <a href="https://drive.mathworks.com/sharing/a0490fcd-6b6b-43f5-8843-0bde8995830a/" target="_blank">MATLAB Teacher Files (MATLAB Drive)</a>
+*   Raw Files
+    +   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/tree/0cf6b4479fb9951a1f13877c4d411c063649f61f/Raw%20MATLAB%20Files/MATLAB%20Student%20Files/Programming%20Lesson%201" target="_blank">MATLAB Student Files (Raw Files)</a>
+    +   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/tree/0cf6b4479fb9951a1f13877c4d411c063649f61f/Raw%20MATLAB%20Files/MATLAB%20Teacher%20Files/Programming%20Lesson%201" target="_blank">MATLAB Teacher Files (Raw Files)</a> 
+
+
 
 ## <span style="color: #4484b5;">Lesson 2</span>
 
