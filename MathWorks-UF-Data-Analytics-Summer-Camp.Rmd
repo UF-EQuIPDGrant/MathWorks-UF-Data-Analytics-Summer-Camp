@@ -31,18 +31,34 @@ library("vembedr")
 <!-- <span style="color: #4484b5;">Blue text</span> -->
 
 # <span style="color: #d35a10;">**Introduction**</span>
-Welcome to the resource hub for the MathWorks UF Data Analytics Summer Camp. This summer program is designed for high school students to be introduced to data analysis and AI applications in MATLAB through sports and music themed activities.  
+Welcome to the MathWorks UF Data Analytics Summer Camp resource hub, designed to support high school educators in introducing students to data analysis and AI applications in MATLAB through sports and music-themed activities. This site offers a range of resources, including lesson plans, interactive presentations, MATLAB files, tutorial videos, and more—all organized to help you engage students in exploring programming and AI concepts.
 
-This site is designed to help you navigate and dive into lesson plans, interactive presentations, ready-to-use MATLAB files, step-by-step tutorial videos, and so much more. Whether you're a seasoned programmer or just getting started, we’ve got you covered with tools that will make your life easier and your students excited to learn. From mastering basic programming syntax to exploring advanced machine learning and regression models, there’s something here for everyone!
+With these resources, students will build a strong foundation in MATLAB, advancing from basic coding principles to complex machine learning models. The curriculum emphasizes practical applications, guiding students through hands-on activities and culminating in a final project where they create and present their own unique models.
 
-**REVIEW AND COMBINE W PARAGRAPH ABOVE** By using the resources here, students will gain a deeper understanding of both programming and AI in the MATLAB environment. Whether you're guiding students through basic coding principles or teaching them how to build sophisticated machine learning models, the lessons offer step-by-step instruction that prepares students to take on real-world challenges. The curriculum culminates in an exciting final project where students create and present their own unique models.
-
-Even if you're new to MATLAB or AI, this repository has everything you need—lesson plans, tutorials, and ready-to-use tools—to make teaching these subjects easy and engaging. Both students and instructors will find resources here to inspire learning and innovation!
+Whether you're teaching foundational programming skills or diving into data analytics and machine learning, this hub provides comprehensive, step-by-step materials to make your instruction both effective and engaging. Even if you're new to MATLAB or AI, the tutorials, ready-made tools, and well-structured lesson plans here will equip you to lead students confidently through real-world data challenges in sports and music contexts.
 
 # <span style="color: #d35a10;">**Program Overview**</span>
 AI tools, machine learning, and programming are transforming the world around us—from the convenience of ChatGPT to image recognition on your Ring camera, and even predicting the outcome of your favorite soccer team’s season. These cutting-edge technologies have a wide range of applications, and this educational repository is designed to help teachers equip students with the skills they need to explore and excel in these fields.
 
-**WRITE BREIF STORYLINE WALKTHROUGH OF THE SUMMER PROGRAM - think like a broadstrokes roadmap of where you begin, what you do in the middle, and where you end**
+The MathWorks UF Data Analytics Summer Camp is structured to guide students through a practical journey in data analytics and AI within the MATLAB environment. Framed around a real-world scenario, students assume the role of data analysts hired by a sports team or music label, tasked with making data-driven predictions—such as identifying future top music artists or standout athletes.
+
+Program Roadmap:
+
+1.    Foundations of Data Analytics and MATLAB
+      
+      The program begins with six foundational lessons that introduce essential data analytics skills. Students learn basic     MATLAB syntax and operations, techniques for importing and managing datasets, data visualization methods, and how to access real-world data through APIs. These foundational skills equip students to approach data analysis in a structured, informed way.
+
+2.    Introduction to AI and Machine Learning Concepts
+
+      Alongside technical skills, students are introduced to fundamental AI and machine learning concepts, including how models make predictions, ethical considerations in AI, and real-world applications across fields. These concepts are connected to familiar sports and music contexts, providing relevant examples to ground theoretical knowledge.
+
+3.    Applying Advanced Techniques in Data Analysis
+
+      Once students have a solid foundation, they move into more advanced techniques like image processing and MATLAB’s AI toolkit to conduct deeper analyses. This phase includes practical applications, such as analyzing visual data or testing prediction models, reinforcing their skills and preparing them for a final project.
+
+4.    Culminating Project: Predicting Future Stars
+
+      The program concludes with a comprehensive project where students apply their skills to predict future stars in sports or music. Using insights from their analyses, they present their findings and predictions, demonstrating their understanding of data analytics and AI in a practical context.
 
 # <span style="color: #d35a10;">**What You Need to Get Started**</span>
 In this section, we will walk you through the essential tools and resources required for instructors and teachers before diving into the lessons provided. These include MATLAB Online, the Spotify API, a list of whitelisted websites, and MATLAB Drive.
@@ -50,14 +66,22 @@ In this section, we will walk you through the essential tools and resources requ
 ## <span style="color: #4484b5;">MATLAB Online</span>
 MATLAB Online is the cloud-based version of MATLAB, allowing you to use MATLAB directly through your web browser without needing to install or download any software. This environment provides full access to the programming features and tools available in the desktop version. Throughout this course, MATLAB Online will be the primary platform for teaching students programming concepts, machine learning, and AI tools in a seamless, accessible way. With MATLAB Online, students can easily access lessons from any device with an internet connection, making it ideal for both in-class and remote learning. This  <a href="https://www.youtube.com/watch?v=kwNFpoY3dKk" target="_blank">link</a> provides instructions on creating a MathWorks Account and accessing MATLAB Online.
 
+Click this <a href="https://www.youtube.com/watch?v=kwNFpoY3dKk" target="_blank">link</a> to watch a tutorial on creating a MAthworks Account and Access MATLAB Online.
+
 ## <span style="color: #4484b5;">Spotify API</span>
 The Spotify API will play a significant role in many lessons, particularly those involving data retrieval and manipulation. The Spotify API is a RESTful web service that allows users to access Spotify’s vast music database without needing to install software locally. Students will use it to gather real-world music data for various exercises and projects, such as creating prediction models or analyzing song attributes like danceability or duration. Teachers will need to guide students in setting up API access and using it to fetch and process music-related data, which can be integrated into their MATLAB projects. This <a href="https://developer.spotify.com/documentation/web-api" target="_blank">link</a> provides the developer page for the Spotify API.
+
+Click this <a href="https://developer.spotify.com/documentation/web-api" target="_blank">link</a> to access the developer page for the Spotify API.
 
 ## <span style="color: #4484b5;">White List Websites</span>
 Some websites and services used throughout this course may be blocked by school networks or firewalls. To avoid any disruptions, a PDF document is provided with a list of essential websites that need to be whitelisted or unblocked before teaching can begin. This ensures smooth access to necessary online resources, such as APIs and MATLAB Online. The list includes links to key websites that students and instructors will need throughout the course, so be sure to review and address any restrictions with your IT department ahead of time. <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/blob/c770bdf30c62b9d31261fe66f2b61ae98d48cf95/Additional%20Resources/MATLAB%20Camp%20-%20Website%20Whitelist%20(2).pdf" target="_blank">PDF link</a>
 
+Click this <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/blob/c770bdf30c62b9d31261fe66f2b61ae98d48cf95/Additional%20Resources/MATLAB%20Camp%20-%20Website%20Whitelist%20(2).pdf" target="_blank">PDF link</a> to access the list of essential websites that need to be whitelisted or uncloked before teacher.
+
 ## <span style="color: #4484b5;">MATLAB Drive</span>
 MATLAB Drive is a cloud-based storage solution integrated with MATLAB, allowing teachers and students to store, manage, and access MATLAB files from anywhere. This tool is especially useful for distributing lesson files, projects, and additional resources to students throughout the course. With MATLAB Drive, instructors can easily share assignments, code, and data files, while students can store their work and access it from any device. It streamlines collaboration and ensures that everyone has access to the materials they need for the course. Additionally, it simplifies file management, making it easier for both teachers and students to stay organized. This <a href="https://www.youtube.com/watch?v=Ap9fqfN1ioA" target="_blank">link</a> provides instructions on accessing the MATLAB drive.
+
+Click this <a href="https://www.youtube.com/watch?v=Ap9fqfN1ioA" target="_blank">link</a> to watch a tutorial on acessing MATLAB drive.
 
 # <span style="color: #d35a10;">**Lesson Resources**</span>
 This section outlines the course structure you'll follow when teaching your students. Each lesson is divided into two main components: a Programming section and an AI section. Together, these sections build the foundational skills and knowledge necessary for students to complete a final project that combines programming and AI concepts in MATLAB.
