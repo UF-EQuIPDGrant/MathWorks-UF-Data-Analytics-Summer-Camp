@@ -25,6 +25,11 @@ library("vembedr")
 ```
 
 
+**Contact Us:** equipd@mse.ufl.edu
+
+```{r pressure, echo=FALSE, fig.cap="", out.width = '100%'}
+knitr::include_graphics("Website Images/Mathworks_Camp_Logo.png")
+```
 
 
 <!-- <span style="color: #d35a10;">Orange text</span> -->
