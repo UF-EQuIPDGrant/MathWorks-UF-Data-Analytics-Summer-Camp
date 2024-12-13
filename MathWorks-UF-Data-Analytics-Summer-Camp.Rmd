@@ -362,14 +362,11 @@ Each programming and AI lesson was designed to take approximately 85 minutes to 
 
 **Resources (Links to all the individual resources from GIThub):** 
 
-*   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/raw/refs/heads/main/AI%20Lesson/AI%20Lesson%206/Teacher%20pages/Part%201/ML_AI_Lesson6_Part1_Teacher_Guide.docx" target="_blank">Word Document Teacher Guide Part 1</a>
-*   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/blob/15e40a1a4c2c7d70604b008fb4116791fc9e932e/AI%20Lesson/AI%20Lesson%206/Teacher%20pages/Part%201/ML_AI_Lesson6_Part1_Teacher_Guide.pdf" target="_blank">PDF Document Teacher Document Part 1</a>
-*   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/raw/refs/heads/main/AI%20Lesson/AI%20Lesson%206/Teacher%20pages/Part%202/ML_AI_Lesson6_Part2_Teacher_Guide.docx" target="_blank">Word Document Teacher Guide Part 2</a>
-*   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/blob/15e40a1a4c2c7d70604b008fb4116791fc9e932e/AI%20Lesson/AI%20Lesson%206/Teacher%20pages/Part%202/ML_AI_Lesson6_Part2_Teacher_Guide.pdf">PDF Document Teacher Document Part 2</a>
-*   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/raw/refs/heads/main/AI%20Lesson/AI%20Lesson%206/ML_AI_Lesson06_Part1_PPT.pptx">Presentation Part 1</a>
-*   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/raw/refs/heads/main/AI%20Lesson/AI%20Lesson%206/ML_AI_Lesson06_Part2_PPT.pptx" target="_blank">Presentation Part 2</a>  
-*   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/blob/15e40a1a4c2c7d70604b008fb4116791fc9e932e/AI%20Lesson/AI%20Lesson%206/Student%20pages/ML_AI_Lesson6_Part1_Handout.pdf" target="_blank">PDF Document Student Handout Part 1</a>
-*   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/blob/15e40a1a4c2c7d70604b008fb4116791fc9e932e/AI%20Lesson/AI%20Lesson%206/Student%20pages/ML_AI_Lesson6_Part2_Handout.pdf" target="_blank">PDF Document Student Handout Part 2</a>
+*   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/raw/refs/heads/main/AI%20Lesson/AI%20Lesson%205/ML%20Section%205%20Main%20Teacher%20Page.docx" target="_blank">Word Document Teacher Guide Part 1</a>
+*   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/raw/refs/heads/main/AI%20Lesson/AI%20Lesson%205/ML_AI_Lesson5_PPT.pptx">Presentation</a>
+*   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/raw/refs/heads/main/AI%20Lesson/AI%20Lesson%205/Section%205%20Assignment%201%20predictions%20and%20outcomes.docx">Word Document of Predictions and Outcomes Assignment</a>  
+*   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/raw/refs/heads/main/AI%20Lesson/AI%20Lesson%205/Student%20performance%20scores.xlsx">Student Performance Scores Data Sheet</a>
+*   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/raw/refs/heads/main/AI%20Lesson/AI%20Lesson%205/2023%20NFL%20data%20stats.xlsx">2023 NFL Data Sheet</a>
 
 ## Lesson 6
 
@@ -415,6 +412,15 @@ Each programming and AI lesson was designed to take approximately 85 minutes to 
 
 **Resources (Links to all the individual resources from GIThub):** 
 
+*   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/raw/refs/heads/main/AI%20Lesson/AI%20Lesson%206/Teacher%20pages/Part%201/ML_AI_Lesson6_Part1_Teacher_Guide.docx" target="_blank">Word Document Teacher Guide Part 1</a>
+*   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/blob/15e40a1a4c2c7d70604b008fb4116791fc9e932e/AI%20Lesson/AI%20Lesson%206/Teacher%20pages/Part%201/ML_AI_Lesson6_Part1_Teacher_Guide.pdf" target="_blank">PDF Document Teacher Document Part 1</a>
+*   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/raw/refs/heads/main/AI%20Lesson/AI%20Lesson%206/Teacher%20pages/Part%202/ML_AI_Lesson6_Part2_Teacher_Guide.docx" target="_blank">Word Document Teacher Guide Part 2</a>
+*   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/blob/15e40a1a4c2c7d70604b008fb4116791fc9e932e/AI%20Lesson/AI%20Lesson%206/Teacher%20pages/Part%202/ML_AI_Lesson6_Part2_Teacher_Guide.pdf">PDF Document Teacher Document Part 2</a>
+*   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/raw/refs/heads/main/AI%20Lesson/AI%20Lesson%206/ML_AI_Lesson06_Part1_PPT.pptx">Presentation Part 1</a>
+*   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/raw/refs/heads/main/AI%20Lesson/AI%20Lesson%206/ML_AI_Lesson06_Part2_PPT.pptx" target="_blank">Presentation Part 2</a>  
+*   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/blob/15e40a1a4c2c7d70604b008fb4116791fc9e932e/AI%20Lesson/AI%20Lesson%206/Student%20pages/ML_AI_Lesson6_Part1_Handout.pdf" target="_blank">PDF Document Student Handout Part 1</a>
+*   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/blob/15e40a1a4c2c7d70604b008fb4116791fc9e932e/AI%20Lesson/AI%20Lesson%206/Student%20pages/ML_AI_Lesson6_Part2_Handout.pdf" target="_blank">PDF Document Student Handout Part 2</a>
+
 ## Lesson 7
 
 ### Programming Lesson 7
@@ -432,15 +438,19 @@ Each programming and AI lesson was designed to take approximately 85 minutes to 
 **Key Terms:** KNN, Classification, Feature Selection, Prediction Models
 
 **Resources (Links to all the individual resources from GIThub):**
-    
-*   Word Document Lesson Outline: <https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/blob/c770bdf30c62b9d31261fe66f2b61ae98d48cf95/Programming%20Lesson/Programming%20Lesson%207_8/Teacher%20Pages/Teacher%20Guides/ML_Sec07_TeacherGuide.docx>
-*   PDF Document Lesson Outline: <https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/blob/c770bdf30c62b9d31261fe66f2b61ae98d48cf95/Programming%20Lesson/Programming%20Lesson%207_8/Teacher%20Pages/Teacher%20Guides/ML_Sec07_TeacherGuide.pdf> 
-*   Presentation: <https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/blob/c770bdf30c62b9d31261fe66f2b61ae98d48cf95/Programming%20Lesson/Programming%20Lesson%207_8/ML_Sec07_PPT_v2.pptx>
-*   MATLAB Student Files (Raw Files): <>
-*   MATLAB Student Files (MATLAB Drive): <https://drive.mathworks.com/sharing/32c68682-25be-48d5-bfdc-0a9f04f18b8b/> 
-*   MATLAB Teacher Files (Raw Files): <>
-*   MATLAB Teacher Files (MATLAB Drive): <https://drive.mathworks.com/sharing/32c68682-25be-48d5-bfdc-0a9f04f18b8b/>
-*   Additional Resources: <>
+
+*   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/raw/refs/heads/main/Programming%20Lesson/Programming%20Lesson%207/Teacher%20Pages/Teacher%20Guides/ML_Sec07_TeacherGuide.docx">Word Document Lesson Outline Part 1</a>
+*   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/blob/89f5e9363cd289a3d7537cdca811955077324a8d/Programming%20Lesson/Programming%20Lesson%207/Teacher%20Pages/Teacher%20Guides/ML_Sec07_TeacherGuide.pdf" target="_blank">PDF Document Lesson Outline Part 1</a>
+*   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/raw/refs/heads/main/Programming%20Lesson/Programming%20Lesson%207/Teacher%20Pages/Teacher%20Guides/ML_Sec08_TeacherGuide.docx">Word Document Lesson Outline Part 2</a>
+*   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/blob/89f5e9363cd289a3d7537cdca811955077324a8d/Programming%20Lesson/Programming%20Lesson%207/Teacher%20Pages/Teacher%20Guides/ML_Sec08_TeacherGuide.pdf" target="_blank">PDF Document Lesson Outline Part 2</a>
+*   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/raw/refs/heads/main/Programming%20Lesson/Programming%20Lesson%207/ML_Sec07_PPT_v2.pptx">Presentation Part 1</a>  
+*   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/raw/refs/heads/main/Programming%20Lesson/Programming%20Lesson%207/ML_Sec08_PPT_V2.pptx">Presentation Part 2</a>  
+*   MATLAB Drive Files 
+    +   <a href="https://drive.mathworks.com/sharing/32c68682-25be-48d5-bfdc-0a9f04f18b8b/" target="_blank">MATLAB Student Files (MATLAB Drive)</a> 
+    +   <a href="https://drive.mathworks.com/sharing/32c68682-25be-48d5-bfdc-0a9f04f18b8b/" target="_blank">MATLAB Teacher Files (MATLAB Drive)</a>
+*   Raw Files
+    +   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/tree/89f5e9363cd289a3d7537cdca811955077324a8d/Raw%20MATLAB%20Files/MATLAB%20Student%20Files/Programming%20Lesson%207">MATLAB Student Files (Raw Files)</a>
+    +   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/tree/89f5e9363cd289a3d7537cdca811955077324a8d/Raw%20MATLAB%20Files/MATLAB%20Teacher%20Files/Programming%20Lesson%207" target="_blank">MATLAB Teacher Files (Raw Files)</a>
 
 ### AI Lesson 7
 
@@ -480,11 +490,13 @@ Each programming and AI lesson was designed to take approximately 85 minutes to 
 
 **Resources (Links to all the individual resources from GIThub):**
 
-*   Word Document Lesson Outline: <https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/blob/c770bdf30c62b9d31261fe66f2b61ae98d48cf95/Programming%20Lesson/Programming%20Lesson%207_8/Teacher%20Pages/Teacher%20Guides/ML_Sec08_TeacherGuide.docx>
-*   PDF Document Lesson Outline: <https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/blob/c770bdf30c62b9d31261fe66f2b61ae98d48cf95/Programming%20Lesson/Programming%20Lesson%207_8/Teacher%20Pages/Teacher%20Guides/ML_Sec08_TeacherGuide.pdf> 
-*   Presentation: <https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/blob/c770bdf30c62b9d31261fe66f2b61ae98d48cf95/Programming%20Lesson/Programming%20Lesson%207_8/ML_Sec08_PPT_V2.pptx>
-*   MATLAB Student Files (Raw Files): <>
-*   MATLAB Student Files (MATLAB Drive): <https://drive.mathworks.com/sharing/0d706dc1-163b-4c1f-8e52-d28ca259b132/> 
-*   MATLAB Teacher Files (Raw Files): <>
-*   MATLAB Teacher Files (MATLAB Drive): <https://drive.mathworks.com/sharing/0d706dc1-163b-4c1f-8e52-d28ca259b132/>
-*   Additional Resources: <>
+*   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/raw/refs/heads/main/Programming%20Lesson/Programming%20Lesson%208/Teacher%20Pages/ML_Sec09_TeacherGuide.docx" target="_blank">Word Document Lesson Outline Part 1</a>
+*   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/blob/89f5e9363cd289a3d7537cdca811955077324a8d/Programming%20Lesson/Programming%20Lesson%208/Teacher%20Pages/ML_Sec09_TeacherGuide.pdf" target="_blank">PDF Document Lesson Outline Part 1 </a>
+*   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/raw/refs/heads/main/Programming%20Lesson/Programming%20Lesson%208/Teacher%20Pages/ML_Sec10_TeacherGuide.docx" target="_blank">Word Document Lesson Outline Part 2</a>
+*   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/blob/89f5e9363cd289a3d7537cdca811955077324a8d/Programming%20Lesson/Programming%20Lesson%208/Teacher%20Pages/ML_Sec10_TeacherGuide.pdf" target="_blank">PDF Document Lesson Outline Part 2 </a>
+*   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/raw/refs/heads/main/Programming%20Lesson/Programming%20Lesson%208/ML_Sec09_PPT.pptx">Presentation Part 1</a>
+*   Student Activities  
+    +   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/raw/refs/heads/main/Programming%20Lesson/Programming%20Lesson%208/Student%20Pages/Sec09-Peer%20Review%20Student%20Handout.docx">Word Document Peer Review Handout </a> 
+    +   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/blob/89f5e9363cd289a3d7537cdca811955077324a8d/Programming%20Lesson/Programming%20Lesson%208/Student%20Pages/Sec09-Peer%20Review%20Student%20Handout.pdf">PDF Document Peer Review Handout</a>
+    +   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/raw/refs/heads/main/Programming%20Lesson/Programming%20Lesson%208/Student%20Pages/ML_Sec10_4-Square.docx">Word Document Square Peer Review Assignment </a> 
+    +   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/blob/89f5e9363cd289a3d7537cdca811955077324a8d/Programming%20Lesson/Programming%20Lesson%208/Student%20Pages/ML_Sec10_4-Square.pdf" target="_blank">PDF Document Square Peer Review Assignment</a>
