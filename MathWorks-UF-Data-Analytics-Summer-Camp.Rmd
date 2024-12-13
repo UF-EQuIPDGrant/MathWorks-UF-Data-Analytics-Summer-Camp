@@ -150,31 +150,27 @@ Each programming and AI lesson was designed to take approximately 85 minutes to 
 
 ### AI Lesson 1
 
-**Summary:** 
+**Summary:** This lesson introduces the role of AI in identifying new talent in sports and entertainment, emphasizing its application in A&R and sports analytics. Students will explore data-driven careers, learn about predictive analytics, and create AI programs to analyze and predict talent.
 
 **Estimated Time:** 85 minutes
 
 **Objectives:**
 
-*    
-*    
-*    
+*    Understand how AI is used in A&R and sports analytics to find talent.
+*    Learn about careers in analytics, including salaries and education.
+*    Explore databases and tools for analyzing sports and entertainment data.
 
-**Key Terms:** 
+**Key Terms:** Artificial Intelligence (AI), Predictive Analytics, Artist and Repertoire (A&R)
 
-**Resources (Links to all the individual resources from GIThub):** 
+**Resources (Links to all the individual resources from github):** 
 
-*   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/raw/c770bdf30c62b9d31261fe66f2b61ae98d48cf95/Programming%20Lesson/Programming%20Lesson%201/Teacher%20Pages/ML_Sec01_TeacherGuide.docx" target="_blank">Word Document Lesson Outline</a>
-*   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/blob/c770bdf30c62b9d31261fe66f2b61ae98d48cf95/Programming%20Lesson/Programming%20Lesson%201/Teacher%20Pages/ML_Sec01_TeacherGuide.pdf" target="_blank">PDF Document Lesson Outline</a>
-*   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/raw/refs/heads/main/Programming%20Lesson/Programming%20Lesson%201/ML_Sec01_PPT.pptx" target="_blank">Presentation</a>   
-*   MATLAB Drive Files 
-    +   <a href="https://drive.mathworks.com/sharing/69b123f0-5eb1-4d9e-9a64-f14498986d9f/" target="_blank">MATLAB Student Files (MATLAB Drive)</a> 
-    +   <a href="https://drive.mathworks.com/sharing/a0490fcd-6b6b-43f5-8843-0bde8995830a/" target="_blank">MATLAB Teacher Files (MATLAB Drive)</a>
-*   Raw Files
-    +   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/tree/0cf6b4479fb9951a1f13877c4d411c063649f61f/Raw%20MATLAB%20Files/MATLAB%20Student%20Files/Programming%20Lesson%201" target="_blank">MATLAB Student Files (Raw Files)</a>
-    +   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/tree/0cf6b4479fb9951a1f13877c4d411c063649f61f/Raw%20MATLAB%20Files/MATLAB%20Teacher%20Files/Programming%20Lesson%201" target="_blank">MATLAB Teacher Files (Raw Files)</a> 
-
-
+*   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/raw/15e40a1a4c2c7d70604b008fb4116791fc9e932e/AI%20Lesson/AI%20Lesson%201/Teacher%20Pages/Main%20Page%20Section%201%20Assignment%201.docx" target="_blank">Word Document Assignment 1 Teacher Outline</a>
+*   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/raw/15e40a1a4c2c7d70604b008fb4116791fc9e932e/AI%20Lesson/AI%20Lesson%201/Student%20pages/Section%201%20Assignment%20%201%20Understanding%20types%20of%20jobs.docx" target="_blank">Word Document Assignment 1 Student Outline</a>
+*   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/raw/15e40a1a4c2c7d70604b008fb4116791fc9e932e/AI%20Lesson/AI%20Lesson%201/Teacher%20Pages/Main%20Page%20secion%201%20Assignment%202.docx" target="_blank">Word Document Assignment 2 Teacher Outline</a>
+*   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/raw/15e40a1a4c2c7d70604b008fb4116791fc9e932e/AI%20Lesson/AI%20Lesson%201/Student%20pages/Section%201%20Assignment%202%20Understanding%20the%20role%20of%20data%20in%20A%20R%20Sports%20analytics(1).docx" target="_blank">Word Document Assignment 2 Student Outline</a>
+*   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/raw/c770bdf30c62b9d31261fe66f2b61ae98d48cf95/Programming%20Lesson/Programming%20Lesson%201/Teacher%20Pages/ML_Sec01_TeacherGuide.docx" target="_blank">Word Document Assignment 3 Teacher Outline</a>
+*   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/raw/15e40a1a4c2c7d70604b008fb4116791fc9e932e/AI%20Lesson/AI%20Lesson%201/Teacher%20Pages/Main%20Page%20Section%201%20Assignment%203.docx" target="_blank">Word Document Assignment 3 Student Outline</a>
+*   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/raw/refs/heads/main/AI%20Lesson/AI%20Lesson%201/ML_AI_Lesson1_PPT.pptx">Presentation</a>   
 
 ## Lesson 2
 
@@ -191,7 +187,7 @@ Each programming and AI lesson was designed to take approximately 85 minutes to 
 *   Perform basic statistical operations like mean, median, and standard deviation.
 *   Key Terms: Data Structures, Tables, Arrays, Import/Export, Basic Statistics
 
-**Resources (Links to all the individual resources from GIThub):**
+**Resources (Links to all the individual resources from github):**
 
 *   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/raw/refs/heads/main/Programming%20Lesson/Programming%20Lesson%202/Teacher%20Pages/SolutionsPDF_Sec02(Part1)_ContinuingOnramp_v2.docx" target="_blank">Word Document Lesson Outline</a>
 *   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/blob/c770bdf30c62b9d31261fe66f2b61ae98d48cf95/Programming%20Lesson/Programming%20Lesson%202/Teacher%20Pages/MATLAB_Section02_TeacherPage.pdf" target="_blank">PDF Document Lesson Outline</a>
@@ -218,7 +214,7 @@ Each programming and AI lesson was designed to take approximately 85 minutes to 
 
 **Key Terms:** Data Types, Arrays, Strings, Floats
 
-**Resources (Links to all the individual resources from GIThub):** 
+**Resources (Links to all the individual resources from github):** 
 
 *   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/raw/refs/heads/main/AI%20Lesson/AI%20Lesson%202/Teacher%20Pages/Main%20Page%20AI%20Section%202%20-%20Data%20Types%20and%20Sources.docx" target="_blank">Word Document Teacher Assignment Outline</a>
 *   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/raw/refs/heads/main/AI%20Lesson/AI%20Lesson%202/Student%20Pages/Assignnment%20Section%202-%20Data%20Types%20and%20sources.docx">Word Document Student Assignment Outline</a>
@@ -240,7 +236,7 @@ Each programming and AI lesson was designed to take approximately 85 minutes to 
 
 **Key Terms:** APIs, HTTP Requests, JSON, Data Storage
 
-**Resources (Links to all the individual resources from GIThub):**
+**Resources (Links to all the individual resources from github):**
 
 *   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/raw/refs/heads/main/Programming%20Lesson/Programming%20Lesson%203/Teacher%20Pages/ML_Sec03_TeacherGuide.docx" target="_blank">Word Document Lesson Outline</a>
 *   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/blob/c770bdf30c62b9d31261fe66f2b61ae98d48cf95/Programming%20Lesson/Programming%20Lesson%203/Teacher%20Pages/ML_Sec03_TeacherGuide.pdf" target="_blank">PDF Document Lesson Outline</a>
@@ -267,7 +263,7 @@ Each programming and AI lesson was designed to take approximately 85 minutes to 
 
 **Key Terms:** Metrics, Data Sources, API, Talent Evaluation 
 
-**Resources (Links to all the individual resources from GIThub):** 
+**Resources (Links to all the individual resources from github):** 
 
 *   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/raw/refs/heads/main/Programming%20Lesson/Programming%20Lesson%204/Teacher%20Pages/ML_Sec04_TeacherGuide.docx" target="_blank">Word Document Teacher Assignment Outline</a>
 *   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/raw/refs/heads/main/AI%20Lesson/AI%20Lesson%203/Teacher%20Pages/Assignnment%20Section%203-%20Obtaining%20data.docx" target="_blank">Word Document Student Assignment Outline</a>
@@ -289,7 +285,7 @@ Each programming and AI lesson was designed to take approximately 85 minutes to 
 
 **Key Terms:** 2D Plot, 3D Plot, Data Visualization, Customization
 
-**Resources (Links to all the individual resources from GIThub):**
+**Resources (Links to all the individual resources from github):**
 
 *   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/raw/refs/heads/main/Programming%20Lesson/Programming%20Lesson%204/Teacher%20Pages/ML_Sec04_TeacherGuide.docx" target="_blank">Word Document Lesson Outline</a>
 *   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/blob/c770bdf30c62b9d31261fe66f2b61ae98d48cf95/Programming%20Lesson/Programming%20Lesson%204/Teacher%20Pages/ML_Sec04_TeacherGuide.pdf" target="_blank">PDF Document Lesson Outline</a>
@@ -304,19 +300,26 @@ Each programming and AI lesson was designed to take approximately 85 minutes to 
 
 ### AI Lesson 4
 
-**Summary:** 
+**Summary:** This lesson covers training machine learning (ML) models, focusing on supervised and unsupervised methods, and their applications in regression, classification, clustering, and dimensionality reduction. It also highlights ML's computational demands and deployment via cloud and edge computing.
 
 **Estimated Time:** 85 minutes
 
 **Objectives:**
 
-*    
-*    
-*    
+*    Understand how ML models are trained to analyze data.
+*    Differentiate between supervised and unsupervised learning approaches.
+*    Explore real-world applications of regression, classification, clustering, and dimensionality reduction.  
 
-**Key Terms:** 
+**Key Terms:** Machine Learning (ML), Regression, Clustering, Cloud Computing
 
-**Resources (Links to all the individual resources from GIThub):** 
+**Resources (Links to all the individual resources from github):** 
+
+*   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/raw/15e40a1a4c2c7d70604b008fb4116791fc9e932e/AI%20Lesson/AI%20Lesson%204/Student%20Pages/Main%20Page%20Lesson%204%20Analyzing%20Data%20understanding%20models.docx">Main Page Word Document</a>
+*   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/raw/15e40a1a4c2c7d70604b008fb4116791fc9e932e/AI%20Lesson/AI%20Lesson%204/Student%20Pages/(ML)%20Section%204%20Assignment%201%20Main%20Page%20-Understanding%20How%20Supervised%20ML%20Models%20Work.docx">Word Document ML Models Assignment Teacher Outline</a>
+*   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/raw/15e40a1a4c2c7d70604b008fb4116791fc9e932e/AI%20Lesson/AI%20Lesson%204/Student%20Pages/Section%204%20Assignment%201%20Understanding%20how%20a%20model%20works.docx">Word Document ML Models Assignment Student Outline</a>
+*   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/raw/15e40a1a4c2c7d70604b008fb4116791fc9e932e/AI%20Lesson/AI%20Lesson%204/Student%20Pages/(ML)%20Section%204%20Assignment%202%20Main%20Page-%20Mathematical%20Models%20for%20Machine%20Learning.docx">Word Document Mathematical Models Assignment Teacher Outline </a>
+*   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/raw/15e40a1a4c2c7d70604b008fb4116791fc9e932e/AI%20Lesson/AI%20Lesson%204/Student%20Pages/Section%204%20Case%20Study%20on%20Machine%20Learning.docx">Word Document Mathematical Models Assignment Student Outline </a>
+*   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/raw/15e40a1a4c2c7d70604b008fb4116791fc9e932e/AI%20Lesson/AI%20Lesson%204/ML_AI_Lesson4_PPT.pptx">Presentation</a> 
 
 ## Lesson 5
 
@@ -334,7 +337,7 @@ Each programming and AI lesson was designed to take approximately 85 minutes to 
 
 **Key Terms:** Regression, Classification, Model Training, AI Toolkit
 
-**Resources (Links to all the individual resources from GIThub):**
+**Resources (Links to all the individual resources from github):**
 
 *   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/raw/refs/heads/main/Programming%20Lesson/Programming%20Lesson%205/Teacher%20Pages/ML_Sec05_TeacherGuide.docx" target="_blank">Word Document Lesson Outline</a>
 *   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/blob/c770bdf30c62b9d31261fe66f2b61ae98d48cf95/Programming%20Lesson/Programming%20Lesson%205/Teacher%20Pages/ML_Sec05_TeacherGuide.pdf" target="_blank">PDF Document Lesson Outline</a>
@@ -360,7 +363,7 @@ Each programming and AI lesson was designed to take approximately 85 minutes to 
 
 **Key Terms:** Diversity in AI, Medici Effect, Ethical Principles in AI
 
-**Resources (Links to all the individual resources from GIThub):** 
+**Resources (Links to all the individual resources from github):** 
 
 *   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/raw/refs/heads/main/AI%20Lesson/AI%20Lesson%205/ML%20Section%205%20Main%20Teacher%20Page.docx" target="_blank">Word Document Teacher Guide Part 1</a>
 *   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/raw/refs/heads/main/AI%20Lesson/AI%20Lesson%205/ML_AI_Lesson5_PPT.pptx">Presentation</a>
@@ -384,7 +387,7 @@ Each programming and AI lesson was designed to take approximately 85 minutes to 
 
 **Key Terms:** Image Processing, Object Detection, Filters, Image Manipulation
 
-**Resources (Links to all the individual resources from GIThub):**
+**Resources (Links to all the individual resources from github):**
 
 *   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/raw/refs/heads/main/Programming%20Lesson/Programming%20Lesson%206/Teacher%20Pages/ML_Sec06_TeacherGuide.docx" target="_blank">Word Document Lesson Outline</a>
 *   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/blob/c770bdf30c62b9d31261fe66f2b61ae98d48cf95/Programming%20Lesson/Programming%20Lesson%206/Teacher%20Pages/ML_Sec06_TeacherGuide.pdf" target="_blank">PDF Document Lesson Outline</a>
@@ -410,7 +413,7 @@ Each programming and AI lesson was designed to take approximately 85 minutes to 
 
 **Key Terms:** AI Ethics, 5 Pillars of Trust in AI, AI Bias
 
-**Resources (Links to all the individual resources from GIThub):** 
+**Resources (Links to all the individual resources from github):** 
 
 *   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/raw/refs/heads/main/AI%20Lesson/AI%20Lesson%206/Teacher%20pages/Part%201/ML_AI_Lesson6_Part1_Teacher_Guide.docx" target="_blank">Word Document Teacher Guide Part 1</a>
 *   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/blob/15e40a1a4c2c7d70604b008fb4116791fc9e932e/AI%20Lesson/AI%20Lesson%206/Teacher%20pages/Part%201/ML_AI_Lesson6_Part1_Teacher_Guide.pdf" target="_blank">PDF Document Teacher Document Part 1</a>
@@ -437,7 +440,7 @@ Each programming and AI lesson was designed to take approximately 85 minutes to 
 
 **Key Terms:** KNN, Classification, Feature Selection, Prediction Models
 
-**Resources (Links to all the individual resources from GIThub):**
+**Resources (Links to all the individual resources from github):**
 
 *   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/raw/refs/heads/main/Programming%20Lesson/Programming%20Lesson%207/Teacher%20Pages/Teacher%20Guides/ML_Sec07_TeacherGuide.docx">Word Document Lesson Outline Part 1</a>
 *   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/blob/89f5e9363cd289a3d7537cdca811955077324a8d/Programming%20Lesson/Programming%20Lesson%207/Teacher%20Pages/Teacher%20Guides/ML_Sec07_TeacherGuide.pdf" target="_blank">PDF Document Lesson Outline Part 1</a>
@@ -467,7 +470,7 @@ Each programming and AI lesson was designed to take approximately 85 minutes to 
 
 **Key Terms:** Agile Development, Waterfall Methodology, Spiral Model, Rapid Prototyping 
 
-**Resources (Links to all the individual resources from GIThub):** 
+**Resources (Links to all the individual resources from github):** 
 
 *   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/raw/refs/heads/main/AI%20Lesson/AI%20Lesson%207/AI%20Section%207%20Mapping%20out%20Software%20Development.docx" target="_blank">Word Document Lesson Outline</a>
 *   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/raw/refs/heads/main/AI%20Lesson/AI%20Lesson%207/Section%207%20Assignment%20-%20To%20Infinity%20and%20Beyond.docx" target="_blank">Word Document Student Assignment</a>
@@ -488,7 +491,7 @@ Each programming and AI lesson was designed to take approximately 85 minutes to 
 *   Identify and mitigate potential biases in models.
 *   Key Terms: Model Evaluation, Parameter Tuning, Bias, Performance Metrics
 
-**Resources (Links to all the individual resources from GIThub):**
+**Resources (Links to all the individual resources from github):**
 
 *   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/raw/refs/heads/main/Programming%20Lesson/Programming%20Lesson%208/Teacher%20Pages/ML_Sec09_TeacherGuide.docx" target="_blank">Word Document Lesson Outline Part 1</a>
 *   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/blob/89f5e9363cd289a3d7537cdca811955077324a8d/Programming%20Lesson/Programming%20Lesson%208/Teacher%20Pages/ML_Sec09_TeacherGuide.pdf" target="_blank">PDF Document Lesson Outline Part 1 </a>
