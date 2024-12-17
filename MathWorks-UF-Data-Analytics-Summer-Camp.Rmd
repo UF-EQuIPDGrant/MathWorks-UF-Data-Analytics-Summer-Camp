@@ -51,9 +51,12 @@ This repository provides teachers with everything they need to teach these conce
 
 ## Program Roadmap
 
+![](Website Images/MATHWORKS_CAMP_TIMELINE.png)
+
+
 **1. Foundations of Data Analytics and MATLAB**
       
-The program begins with four foundational lessons that introduce essential data analytics skills. Students learn basic       MATLAB syntax and operations, techniques for importing and managing datasets, data visualization methods, and how to access real-world data through APIs. These foundational skills equip students to approach data analysis in a structured, informed way.
+The program begins with four foundational lessons that introduce essential data analytics skills. Students learn basic MATLAB syntax and operations, techniques for importing and managing datasets, data visualization methods, and how to access real-world data through APIs. These foundational skills equip students to approach data analysis in a structured, informed way.
 
 Corresponding Lessons: [Programming Lesson 1], [Programming Lesson 2], [Programming Lesson 3], [Programming Lesson 4]
 
