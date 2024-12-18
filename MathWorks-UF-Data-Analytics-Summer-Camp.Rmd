@@ -359,17 +359,17 @@ Each programming and AI lesson was designed to take approximately 85 minutes to 
 
 ### AI Lesson 5
 
-**Summary:** This lesson continues the Foundations of Data Analytics and MATLAB [Program Roadmap] by exploring the importance of diversity and varying perspectives in AI. Students will discuss how diverse teams enhance problem-solving and innovation in AI development, while also addressing the “diversity crisis” and its impact on biased algorithms. The lesson will cover the ethical implications of these biases and introduce the 3 Basic Principles of AI Ethics.
+**Summary:** This lesson builds on the Foundations of Data Analytics and MATLAB [Program Roadmap] by exploring how computers make predictions using statistical methods and machine learning algorithms. Students will learn about linear regression, its application in AI, and how it helps make informed predictions. Through practical exercises with data sets, they will understand how regression analysis enhances prediction accuracy in AI models.
 
 **Estimated Time:** 85 minutes
 
 **Objectives:**
 
-*    Understand the benefits of diversity in AI.
-*    Learn about the "diversity crisis" and the issue of bias in AI.
-*    Explore the 3 Basic Principles of AI Ethics.
+*    Understand how computers make predictions.
+*    Learn about algorithms used for prediction.
+*    Explore basic statistical concepts that help improve predictions.
 
-**Key Terms:** Diversity in AI, Medici Effect, Ethical Principles in AI
+**Key Terms:** Linear Regression, Algorithm, Prediction
 
 **Resources (Links to all the individual resources from github):** 
 
@@ -501,7 +501,8 @@ Each programming and AI lesson was designed to take approximately 85 minutes to 
 *   Learn how to evaluate machine learning models using performance metrics.
 *   Tune parameters to improve model accuracy.
 *   Identify and mitigate potential biases in models.
-*   Key Terms: Model Evaluation, Parameter Tuning, Bias, Performance Metrics
+
+**Key Terms:** Model Evaluation, Parameter Tuning, Bias, Performance Metrics
 
 **Resources (Links to all the individual resources from github):**
 
