@@ -84,7 +84,7 @@ In this section, we will walk you through the essential tools and resources requ
 ## MATLAB Online
 MATLAB Online is the cloud-based version of MATLAB, allowing you to use MATLAB directly through your web browser without needing to install or download any software. This environment provides full access to the programming features and tools available in the desktop version. Throughout this course, MATLAB Online will be the primary platform for teaching students programming concepts, machine learning, and AI tools in a seamless, accessible way. With MATLAB Online, students can easily access lessons from any device with an internet connection, making it ideal for both in-class and remote learning. This  <a href="https://www.youtube.com/watch?v=kwNFpoY3dKk" target="_blank">link</a> provides instructions on creating a MathWorks Account and accessing MATLAB Online.
 
-Click this <a href="https://www.youtube.com/watch?v=kwNFpoY3dKk" target="_blank">link</a> to watch a tutorial on creating a MAthworks Account and Access MATLAB Online.
+Click this <a href="https://www.youtube.com/watch?v=kwNFpoY3dKk" target="_blank">link</a> to watch a tutorial on creating a Mathworks Account and Access MATLAB Online.
 
 ## Spotify API
 The Spotify API will play a significant role in many lessons, particularly those involving data retrieval and manipulation. The Spotify API is a RESTful web service that allows users to access Spotify’s vast music database without needing to install software locally. Students will use it to gather real-world music data for various exercises and projects, such as creating prediction models or analyzing song attributes like danceability or duration. Teachers will need to guide students in setting up API access and using it to fetch and process music-related data, which can be integrated into their MATLAB projects. This <a href="https://developer.spotify.com/documentation/web-api" target="_blank">link</a> provides the developer page for the Spotify API.
@@ -170,7 +170,7 @@ Each programming and AI lesson was designed to take approximately 85 minutes to 
 *   Teacher Materials
     +   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/raw/15e40a1a4c2c7d70604b008fb4116791fc9e932e/AI%20Lesson/AI%20Lesson%201/Teacher%20Pages/Main%20Page%20Section%201%20Assignment%201.docx" target="_blank">Word Document Assignment 1 Teacher Outline (Download)</a>
     +   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/raw/15e40a1a4c2c7d70604b008fb4116791fc9e932e/AI%20Lesson/AI%20Lesson%201/Teacher%20Pages/Main%20Page%20secion%201%20Assignment%202.docx" target="_blank">Word Document Assignment 2 Teacher Outline (Download)</a>
-    +   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/raw/c770bdf30c62b9d31261fe66f2b61ae98d48cf95/Programming%20Lesson/Programming%20Lesson%201/Teacher%20Pages/ML_Sec01_TeacherGuide.docx" target="_blank">Word Document Assignment 3 Teacher Outline (Download)</a>
+    +   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/raw/refs/heads/main/AI%20Lesson/AI%20Lesson%201/Student%20pages/Assigment%201%20Part%203%20Assignment%20How%20is%20AI%20used%20in%20Sports%20and%20AR%20Marketing.docx" target="_blank">Word Document Assignment 3 Teacher Outline (Download)</a>
     +   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/raw/refs/heads/main/AI%20Lesson/AI%20Lesson%201/ML_AI_Lesson1_PPT.pptx">Presentation (Download)</a> 
 *   Student Materials    
     +   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/raw/15e40a1a4c2c7d70604b008fb4116791fc9e932e/AI%20Lesson/AI%20Lesson%201/Student%20pages/Section%201%20Assignment%20%201%20Understanding%20types%20of%20jobs.docx" target="_blank">Word Document Assignment 1 Student Outline (Download)</a>
@@ -194,7 +194,7 @@ Each programming and AI lesson was designed to take approximately 85 minutes to 
 
 **Resources (Links to all the individual resources from github):**
 
-*   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/raw/refs/heads/main/Programming%20Lesson/Programming%20Lesson%202/Teacher%20Pages/SolutionsPDF_Sec02(Part1)_ContinuingOnramp_v2.docx" target="_blank">Word Document Lesson Outline (Download)</a>
+*   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/raw/refs/heads/main/Programming%20Lesson/Programming%20Lesson%202/Teacher%20Pages/MATLAB_Section02_TeacherPage.docx" target="_blank">Word Document Lesson Outline (Download)</a>
 *   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/blob/c770bdf30c62b9d31261fe66f2b61ae98d48cf95/Programming%20Lesson/Programming%20Lesson%202/Teacher%20Pages/MATLAB_Section02_TeacherPage.pdf" target="_blank">PDF Document Lesson Outline</a>
 *   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/raw/refs/heads/main/Programming%20Lesson/Programming%20Lesson%202/ML_Sec02_PPT.pptx" target="_blank">Presentation (Download)</a>  
 *   MATLAB Drive Files 
@@ -270,7 +270,7 @@ Each programming and AI lesson was designed to take approximately 85 minutes to 
 
 **Resources (Links to all the individual resources from github):** 
 
-*   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/raw/refs/heads/main/Programming%20Lesson/Programming%20Lesson%204/Teacher%20Pages/ML_Sec04_TeacherGuide.docx" target="_blank">Word Document Teacher Assignment Outline (Download)</a>
+*   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/raw/c770bdf30c62b9d31261fe66f2b61ae98d48cf95/AI%20Lesson/AI%20Lesson%203/Teacher%20Pages/Assignnment%20Section%203-%20Obtaining%20data.docx" target="_blank">Word Document Teacher Assignment Outline (Download)</a>
 *   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/raw/refs/heads/main/AI%20Lesson/AI%20Lesson%203/Teacher%20Pages/Assignnment%20Section%203-%20Obtaining%20data.docx" target="_blank">Word Document Student Assignment Outline (Download)</a>
 *   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/raw/refs/heads/main/AI%20Lesson/AI%20Lesson%203/ML_AI_Lesson3_PPT%20(1).pptx">Presentation (Download)</a>  
 
@@ -429,7 +429,7 @@ Each programming and AI lesson was designed to take approximately 85 minutes to 
     +   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/raw/refs/heads/main/AI%20Lesson/AI%20Lesson%206/Teacher%20pages/Part%201/ML_AI_Lesson6_Part1_Teacher_Guide.docx" target="_blank">Word Document Teacher Guide Part 1 (Download)</a>
     +   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/blob/15e40a1a4c2c7d70604b008fb4116791fc9e932e/AI%20Lesson/AI%20Lesson%206/Teacher%20pages/Part%201/ML_AI_Lesson6_Part1_Teacher_Guide.pdf" target="_blank">PDF Document Teacher Document Part 1</a>
     +   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/raw/refs/heads/main/AI%20Lesson/AI%20Lesson%206/Teacher%20pages/Part%202/ML_AI_Lesson6_Part2_Teacher_Guide.docx" target="_blank">Word Document Teacher Guide Part 2 (Download)</a>
-    +   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/blob/15e40a1a4c2c7d70604b008fb4116791fc9e932e/AI%20Lesson/AI%20Lesson%206/Teacher%20pages/Part%202/ML_AI_Lesson6_Part2_Teacher_Guide.pdf">PDF Document Teacher Document Part 2</a>
+    +   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/blob/c770bdf30c62b9d31261fe66f2b61ae98d48cf95/AI%20Lesson/AI%20Lesson%206/Teacher%20pages/Part%202/ML_AI_Lesson6_Part2_Teacher_Guide.pdf">PDF Document Teacher Document Part 2</a>
     +   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/raw/refs/heads/main/AI%20Lesson/AI%20Lesson%206/ML_AI_Lesson06_Part1_PPT.pptx">Presentation Part 1 (Download)</a>
     +   <a href="https://github.com/UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp/raw/refs/heads/main/AI%20Lesson/AI%20Lesson%206/ML_AI_Lesson06_Part2_PPT.pptx" target="_blank">Presentation Part 2 (Download)</a>  
 *   Student Materials     
