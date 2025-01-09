@@ -27,6 +27,8 @@ library("vembedr")
 
 **Contact Us:** equipd@mse.ufl.edu
 
+**Mathworks Support Contact:** stemoutreach@mathworks.com 
+
 ```{r pressure, echo=FALSE, fig.cap="", out.width = '100%'}
 knitr::include_graphics("Website Images/Mathworks_Camp_Logo.png")
 ```
@@ -119,6 +121,10 @@ The two sections of the course culminate in an exciting final project where stud
 **Lesson Pacing**
 
 Each programming and AI lesson was designed to take approximately 85 minutes to complete. This may vary depending on the pace of the students in your camp. The course is designed to be flexible and adaptable, allowing you to tailor the lessons to your students' needs while maintaining structure and clear learning outcomes.
+
+**Mathworks Support Contact:** stemoutreach@mathworks.com 
+
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=UF-EQuIPDGrant/MathWorks-UF-Data-Analytics-Summer-Camp&file=AI%20Lesson)
 
 ## Lesson 1
 
